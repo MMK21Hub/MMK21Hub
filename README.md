@@ -1,4 +1,4 @@
-Did you know you can access the web through the Minecraft Launcher? **Settings** > **Accounts** > **Add Microsoft account** > Sign-in options > **Sign in with GitHub** > Terms > [Scroll down to footer] > About > [Use the search box to find my profile (MMK21Hub)] > Click on one of the useful links below. Note that there's no back button!
+Did you know you can access the web through the Minecraft Launcher? **Settings** > **Accounts** > **Add Microsoft account** > `Sign-in options` > **Sign in with GitHub** > `Terms` > [Scroll down to footer] > `About` > [Use the search box to find my profile (MMK21Hub)] > Click on one of the useful links below. Note that there's no back button!
 
 * <https://google.com>
 * <https://amiunique.org>
