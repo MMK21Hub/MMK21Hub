@@ -1,4 +1,8 @@
-![:eyes:](https://i.imgur.com/NEBAcwK.png)
+Did you know you can access the web through the Minecraft Launcher? **Settings** > **Accounts** > **Add Microsoft account** > Sign-in options > **Sign in with GitHub** > Terms > [Scroll down to footer] > About > [Use the search box to find my profile (MMK21Hub)] > Click on one of the useful links below. Note that there's no back button!
+
+* <https://google.com>
+* <https://amiunique.org>
+
 <!--
 **MMK21Hub/MMK21Hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
