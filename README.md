@@ -1,4 +1,9 @@
-## Things to do if you're bored :slight_smile:
+## 📊 Stats 
+![MMK21's Github stats](https://github-readme-stats.vercel.app/api?username=MMK21Hub&showicons=true&theme=dark&bg_color=171b22&text_color=CCCCCC&hide_border=true)
+
+[![MMK21's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MMK21Hub&theme=dark&bg_color=171b22&text_color=CCCCCC&hide_border=true)](https://www.youtube.com/watch?v=DLzxrzFCyOs)
+
+## 🙂 Things to do if you're bored
 
 Did you know you can access the web through the Minecraft Launcher? **Settings** > **Accounts** > **Add Microsoft account** > `Sign-in options` > **Sign in with GitHub** > `Terms` > Scroll down to footer > `About` > Use the search box to find my profile (MMK21Hub) > Click on one of the useful links below. Note that there's no back button!
 
