@@ -1,5 +1,5 @@
 ## 📊 Stats 
-![MMK21's Github stats](https://github-readme-stats.vercel.app/api?username=MMK21Hub&showicons=true&theme=dark&bg_color=171b22&text_color=CCCCCC&hide_border=true)
+![MMK21's Github stats](https://github-readme-stats.vercel.app/api?username=MMK21Hub&show_icons=true&theme=dark&bg_color=171b22&text_color=CCCCCC&hide_border=true)
 
 [![MMK21's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MMK21Hub&theme=dark&bg_color=171b22&text_color=CCCCCC&hide_border=true)](https://www.youtube.com/watch?v=DLzxrzFCyOs)
 
