@@ -16,10 +16,10 @@ AKA `MMK21Games`/`MMK21Hub`
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/MMK21Hub/KnowledgeBot/issues/1) in [MMK21Hub/KnowledgeBot](https://github.com/MMK21Hub/KnowledgeBot)
-2. ❗️ Opened issue [#112269](https://github.com/microsoft/vscode/issues/112269) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 🗣 Commented on [#66](https://github.com/isaacs/github/issues/66) in [isaacs/github](https://github.com/isaacs/github)
-4. 💪 Opened PR [#24](https://github.com/SheepCommander/KnowledgeBase/pull/24) in [SheepCommander/KnowledgeBase](https://github.com/SheepCommander/KnowledgeBase)
-5. 💪 Opened PR [#23](https://github.com/SheepCommander/KnowledgeBase/pull/23) in [SheepCommander/KnowledgeBase](https://github.com/SheepCommander/KnowledgeBase)
+2. 🗣 Commented on [#1](https://github.com/MMK21Hub/KnowledgeBot/issues/1) in [MMK21Hub/KnowledgeBot](https://github.com/MMK21Hub/KnowledgeBot)
+3. ❗️ Opened issue [#112269](https://github.com/microsoft/vscode/issues/112269) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. 🗣 Commented on [#66](https://github.com/isaacs/github/issues/66) in [isaacs/github](https://github.com/isaacs/github)
+5. 💪 Opened PR [#24](https://github.com/SheepCommander/KnowledgeBase/pull/24) in [SheepCommander/KnowledgeBase](https://github.com/SheepCommander/KnowledgeBase)
 <!--END_SECTION:activity-->
 
 ## 🙂 Things to do if you're bored
