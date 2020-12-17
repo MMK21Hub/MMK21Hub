@@ -1,0 +1,32 @@
+name: 404 Pinger
+
+on:
+  schedule:
+    - cron:  '*/5 * * * *' # “At every 5th minute.”
+
+jobs:
+  ping:
+    name: Ping the URL
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check the site
+          id: hello
+          uses: srt32/uptime@master
+          with:
+            url-to-hit: "https://example.com"
+            expected-statuses: "200"
+      - name: Fire webhook 1
+        id: sendwebhook
+        uses: distributhor/workflow-webhook@v1
+        env:
+          webhook_url: 'https://canary.discord.com/api/webhooks/789155136831225897/kglZJ1H1Gi87F8p4JF1oaczLjwOvNIwGgK4cMs2vJ5Qm4oQdpX_rZsPfZswFbQvzp-Kb'
+          webhook_secret: idk
+          data: '{ "content": "<@569602218731372710>" }'
+      - name: Fire webhook 2
+        id: sendwebhookcontent
+        uses: distributhor/workflow-webhook@v1
+        env:
+          webhook_url: 'https://canary.discord.com/api/webhooks/789155136831225897/kglZJ1H1Gi87F8p4JF1oaczLjwOvNIwGgK4cMs2vJ5Qm4oQdpX_rZsPfZswFbQvzp-Kb'
+          webhook_secret: idk
+          data: '{ "content": "${{ steps.hello.outputs.status }}" }'
