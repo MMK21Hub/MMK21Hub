@@ -18,11 +18,11 @@ jobs:
           expected-statuses: "200"
       - name: Fire webhook 1
         id: sendwebhook
-        uses: distributhor/workflow-webhook@v1
-        env:
-          webhook_url: 'https://canary.discord.com/api/webhooks/789155136831225897/kglZJ1H1Gi87F8p4JF1oaczLjwOvNIwGgK4cMs2vJ5Qm4oQdpX_rZsPfZswFbQvzp-Kb'
-          webhook_secret: idk
-          data: '{ "content": "<@569602218731372710>" }'
+        uses: fjogeleit/http-request-action@master
+        with:
+          url: 'https://canary.discord.com/api/webhooks/789155136831225897/kglZJ1H1Gi87F8p4JF1oaczLjwOvNIwGgK4cMs2vJ5Qm4oQdpX_rZsPfZswFbQvzp-Kb'
+          method: 'POST'
+          data: '{"content":"<@569602218731372710> Mediawiki 1.31.11 just released! `${{ steps.hello.outputs.status }}`"}'
       - name: Fire webhook 2
         id: sendwebhookcontent
         uses: distributhor/workflow-webhook@v1
