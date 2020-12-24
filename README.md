@@ -15,11 +15,11 @@ AKA `MMK21Games`/`MMK21Hub`
 ## 👀 Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#112269](https://github.com/microsoft/vscode/issues/112269) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 🗣 Commented on [#1](https://github.com/MMK21Hub/KnowledgeBot/issues/1) in [MMK21Hub/KnowledgeBot](https://github.com/MMK21Hub/KnowledgeBot)
+1. ❗️ Opened issue [#134](https://github.com/GoogleChrome/developer.chrome.com/issues/134) in [GoogleChrome/developer.chrome.com](https://github.com/GoogleChrome/developer.chrome.com)
+2. 🗣 Commented on [#112269](https://github.com/microsoft/vscode/issues/112269) in [microsoft/vscode](https://github.com/microsoft/vscode)
 3. 🗣 Commented on [#1](https://github.com/MMK21Hub/KnowledgeBot/issues/1) in [MMK21Hub/KnowledgeBot](https://github.com/MMK21Hub/KnowledgeBot)
-4. ❗️ Opened issue [#112269](https://github.com/microsoft/vscode/issues/112269) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. 🗣 Commented on [#66](https://github.com/isaacs/github/issues/66) in [isaacs/github](https://github.com/isaacs/github)
+4. 🗣 Commented on [#1](https://github.com/MMK21Hub/KnowledgeBot/issues/1) in [MMK21Hub/KnowledgeBot](https://github.com/MMK21Hub/KnowledgeBot)
+5. ❗️ Opened issue [#112269](https://github.com/microsoft/vscode/issues/112269) in [microsoft/vscode](https://github.com/microsoft/vscode)
 <!--END_SECTION:activity-->
 
 ## 🙂 Things to do if you're bored
