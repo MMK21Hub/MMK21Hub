@@ -18,10 +18,10 @@ AKA `MMK21Games`/`MMK21Hub`
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#413](https://github.com/Tyrrrz/DiscordChatExporter/issues/413) in [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter)
-2. 🗣 Commented on [#9064](https://github.com/microsoft/PowerToys/issues/9064) in [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-3. ❗️ Opened issue [#9064](https://github.com/microsoft/PowerToys/issues/9064) in [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-4. 🗣 Commented on [#1](https://github.com/ErrorCraft/FunctionAnalyser/issues/1) in [ErrorCraft/FunctionAnalyser](https://github.com/ErrorCraft/FunctionAnalyser)
-5. ❗️ Opened issue [#1](https://github.com/ErrorCraft/FunctionAnalyser/issues/1) in [ErrorCraft/FunctionAnalyser](https://github.com/ErrorCraft/FunctionAnalyser)
+2. 🗣 Commented on [#413](https://github.com/Tyrrrz/DiscordChatExporter/issues/413) in [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter)
+3. 🗣 Commented on [#9064](https://github.com/microsoft/PowerToys/issues/9064) in [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+4. ❗️ Opened issue [#9064](https://github.com/microsoft/PowerToys/issues/9064) in [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+5. 🗣 Commented on [#1](https://github.com/ErrorCraft/FunctionAnalyser/issues/1) in [ErrorCraft/FunctionAnalyser](https://github.com/ErrorCraft/FunctionAnalyser)
 <!--END_SECTION:activity-->
 
 ## 🙂 Things to do if you're bored
