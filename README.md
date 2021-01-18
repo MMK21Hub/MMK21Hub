@@ -31,7 +31,7 @@ Did you know you can access the web through the Minecraft Launcher? **Settings**
 * <https://google.com>
 * <https://amiunique.org>
 * <http://superinternet.cc/waterfall/> (Couldn't find a website that propely hangs the browser)
-* <https://12q3g.csb.app/>
+* <https://s2sn0.csb.app/>
 
 <!--
 **MMK21Hub/MMK21Hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
