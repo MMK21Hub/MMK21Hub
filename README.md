@@ -17,11 +17,11 @@ AKA `MMK21Games`/`MMK21Hub`
 ## 👀 Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/SheepCommander/SheepCommander.github.io/pull/3) in [SheepCommander/SheepCommander.github.io](https://github.com/SheepCommander/SheepCommander.github.io)
-2. 🗣 Commented on [#86](https://github.com/modrinth/knossos/issues/86) in [modrinth/knossos](https://github.com/modrinth/knossos)
-3. ❗️ Opened issue [#86](https://github.com/modrinth/knossos/issues/86) in [modrinth/knossos](https://github.com/modrinth/knossos)
-4. 💪 Opened PR [#2](https://github.com/TheMrZZ/sandstone-documentation/pull/2) in [TheMrZZ/sandstone-documentation](https://github.com/TheMrZZ/sandstone-documentation)
-5. 🗣 Commented on [#112269](https://github.com/microsoft/vscode/issues/112269) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 🗣 Commented on [#112269](https://github.com/microsoft/vscode/issues/112269) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. 💪 Opened PR [#3](https://github.com/SheepCommander/SheepCommander.github.io/pull/3) in [SheepCommander/SheepCommander.github.io](https://github.com/SheepCommander/SheepCommander.github.io)
+3. 🗣 Commented on [#86](https://github.com/modrinth/knossos/issues/86) in [modrinth/knossos](https://github.com/modrinth/knossos)
+4. ❗️ Opened issue [#86](https://github.com/modrinth/knossos/issues/86) in [modrinth/knossos](https://github.com/modrinth/knossos)
+5. 💪 Opened PR [#2](https://github.com/TheMrZZ/sandstone-documentation/pull/2) in [TheMrZZ/sandstone-documentation](https://github.com/TheMrZZ/sandstone-documentation)
 <!--END_SECTION:activity-->
 
 ## 🙂 Things to do if you're bored
