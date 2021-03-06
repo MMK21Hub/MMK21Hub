@@ -17,11 +17,11 @@ AKA `MMK21Games`/`MMK21Hub`
 ## 👀 Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/MMK21Hub/mc-src/issues/1) in [MMK21Hub/mc-src](https://github.com/MMK21Hub/mc-src)
-2. ❗️ Opened issue [#790](https://github.com/itzg/docker-minecraft-server/issues/790) in [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
-3. ❗️ Opened issue [#3](https://github.com/MMK21Hub/MMK21Hub.github.io/issues/3) in [MMK21Hub/MMK21Hub.github.io](https://github.com/MMK21Hub/MMK21Hub.github.io)
-4. 🎉 Merged PR [#1](https://github.com/MMK21Hub/BoatPad/pull/1) in [MMK21Hub/BoatPad](https://github.com/MMK21Hub/BoatPad)
-5. 💪 Opened PR [#1](https://github.com/MMK21Hub/BoatPad/pull/1) in [MMK21Hub/BoatPad](https://github.com/MMK21Hub/BoatPad)
+1. ❗️ Closed issue [#790](https://github.com/itzg/docker-minecraft-server/issues/790) in [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
+2. 🗣 Commented on [#790](https://github.com/itzg/docker-minecraft-server/issues/790) in [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
+3. 🗣 Commented on [#1](https://github.com/MMK21Hub/mc-src/issues/1) in [MMK21Hub/mc-src](https://github.com/MMK21Hub/mc-src)
+4. ❗️ Opened issue [#790](https://github.com/itzg/docker-minecraft-server/issues/790) in [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
+5. ❗️ Opened issue [#3](https://github.com/MMK21Hub/MMK21Hub.github.io/issues/3) in [MMK21Hub/MMK21Hub.github.io](https://github.com/MMK21Hub/MMK21Hub.github.io)
 <!--END_SECTION:activity-->
 
 ## 🙂 Things to do if you're bored
