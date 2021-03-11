@@ -17,11 +17,11 @@ AKA `MMK21Games`/`MMK21Hub`
 ## 👀 Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#790](https://github.com/itzg/docker-minecraft-server/issues/790) in [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
-2. 🗣 Commented on [#790](https://github.com/itzg/docker-minecraft-server/issues/790) in [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
-3. 🗣 Commented on [#1](https://github.com/MMK21Hub/mc-src/issues/1) in [MMK21Hub/mc-src](https://github.com/MMK21Hub/mc-src)
-4. ❗️ Opened issue [#790](https://github.com/itzg/docker-minecraft-server/issues/790) in [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
-5. ❗️ Opened issue [#3](https://github.com/MMK21Hub/MMK21Hub.github.io/issues/3) in [MMK21Hub/MMK21Hub.github.io](https://github.com/MMK21Hub/MMK21Hub.github.io)
+1. 💪 Opened PR [#5](https://github.com/SheepCommander/SheepCommander.github.io/pull/5) in [SheepCommander/SheepCommander.github.io](https://github.com/SheepCommander/SheepCommander.github.io)
+2. ❗️ Closed issue [#790](https://github.com/itzg/docker-minecraft-server/issues/790) in [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
+3. 🗣 Commented on [#790](https://github.com/itzg/docker-minecraft-server/issues/790) in [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
+4. 🗣 Commented on [#1](https://github.com/MMK21Hub/mc-src/issues/1) in [MMK21Hub/mc-src](https://github.com/MMK21Hub/mc-src)
+5. ❗️ Opened issue [#790](https://github.com/itzg/docker-minecraft-server/issues/790) in [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
 <!--END_SECTION:activity-->
 
 ## 🙂 Things to do if you're bored
