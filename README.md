@@ -17,11 +17,11 @@ AKA `MMK21Games`/`MMK21Hub`
 ## 👀 Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1477](https://github.com/benawad/dogehouse/pull/1477) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
-2. 🗣 Commented on [#108](https://github.com/notable/notable/issues/108) in [notable/notable](https://github.com/notable/notable)
-3. 💪 Opened PR [#5](https://github.com/SheepCommander/SheepCommander.github.io/pull/5) in [SheepCommander/SheepCommander.github.io](https://github.com/SheepCommander/SheepCommander.github.io)
-4. ❗️ Closed issue [#790](https://github.com/itzg/docker-minecraft-server/issues/790) in [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
-5. 🗣 Commented on [#790](https://github.com/itzg/docker-minecraft-server/issues/790) in [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
+1. ❗️ Opened issue [#1479](https://github.com/benawad/dogehouse/issues/1479) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+2. 💪 Opened PR [#1477](https://github.com/benawad/dogehouse/pull/1477) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+3. 🗣 Commented on [#108](https://github.com/notable/notable/issues/108) in [notable/notable](https://github.com/notable/notable)
+4. 💪 Opened PR [#5](https://github.com/SheepCommander/SheepCommander.github.io/pull/5) in [SheepCommander/SheepCommander.github.io](https://github.com/SheepCommander/SheepCommander.github.io)
+5. ❗️ Closed issue [#790](https://github.com/itzg/docker-minecraft-server/issues/790) in [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
 <!--END_SECTION:activity-->
 
 ## 🙂 Things to do if you're bored
