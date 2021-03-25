@@ -17,11 +17,11 @@ AKA `MMK21Games`/`MMK21Hub`
 ## 👀 Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35749](https://github.com/microsoft/TypeScript/issues/35749) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-2. 💪 Opened PR [#3](https://github.com/dogegarden/dogegarden-stats/pull/3) in [dogegarden/dogegarden-stats](https://github.com/dogegarden/dogegarden-stats)
-3. ❗️ Opened issue [#1479](https://github.com/benawad/dogehouse/issues/1479) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
-4. 💪 Opened PR [#1477](https://github.com/benawad/dogehouse/pull/1477) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
-5. 🗣 Commented on [#108](https://github.com/notable/notable/issues/108) in [notable/notable](https://github.com/notable/notable)
+1. ❗️ Closed issue [#1479](https://github.com/benawad/dogehouse/issues/1479) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+2. 🗣 Commented on [#1479](https://github.com/benawad/dogehouse/issues/1479) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+3. 🗣 Commented on [#35749](https://github.com/microsoft/TypeScript/issues/35749) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+4. 💪 Opened PR [#3](https://github.com/dogegarden/dogegarden-stats/pull/3) in [dogegarden/dogegarden-stats](https://github.com/dogegarden/dogegarden-stats)
+5. ❗️ Opened issue [#1479](https://github.com/benawad/dogehouse/issues/1479) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
 <!--END_SECTION:activity-->
 
 ## 🙂 Things to do if you're bored
