@@ -17,11 +17,11 @@ AKA `MMK21Games`/`MMK21Hub`
 ## 👀 Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1697](https://github.com/benawad/dogehouse/issues/1697) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
-2. 💪 Opened PR [#1694](https://github.com/benawad/dogehouse/pull/1694) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
-3. 🗣 Commented on [#1644](https://github.com/benawad/dogehouse/issues/1644) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
-4. 🗣 Commented on [#1613](https://github.com/benawad/dogehouse/issues/1613) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
-5. 🗣 Commented on [#1597](https://github.com/benawad/dogehouse/issues/1597) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+1. 🗣 Commented on [#1694](https://github.com/benawad/dogehouse/issues/1694) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+2. ❗️ Opened issue [#1697](https://github.com/benawad/dogehouse/issues/1697) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+3. 💪 Opened PR [#1694](https://github.com/benawad/dogehouse/pull/1694) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+4. 🗣 Commented on [#1644](https://github.com/benawad/dogehouse/issues/1644) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+5. 🗣 Commented on [#1613](https://github.com/benawad/dogehouse/issues/1613) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
 <!--END_SECTION:activity-->
 
 ## 🙂 Things to do if you're bored
