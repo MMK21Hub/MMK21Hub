@@ -17,11 +17,11 @@ AKA `MMK21Games`/`MMK21Hub`
 ## 👀 Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/HonbraDev/dodgycoin/issues/5) in [HonbraDev/dodgycoin](https://github.com/HonbraDev/dodgycoin)
-2. 🗣 Commented on [#4](https://github.com/HonbraDev/dodgycoin/issues/4) in [HonbraDev/dodgycoin](https://github.com/HonbraDev/dodgycoin)
-3. 🗣 Commented on [#1694](https://github.com/benawad/dogehouse/issues/1694) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+1. ❗️ Opened issue [#2067](https://github.com/benawad/dogehouse/issues/2067) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+2. ❗️ Opened issue [#5](https://github.com/HonbraDev/dodgycoin/issues/5) in [HonbraDev/dodgycoin](https://github.com/HonbraDev/dodgycoin)
+3. 🗣 Commented on [#4](https://github.com/HonbraDev/dodgycoin/issues/4) in [HonbraDev/dodgycoin](https://github.com/HonbraDev/dodgycoin)
 4. 🗣 Commented on [#1694](https://github.com/benawad/dogehouse/issues/1694) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
-5. ❗️ Opened issue [#1753](https://github.com/benawad/dogehouse/issues/1753) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+5. 🗣 Commented on [#1694](https://github.com/benawad/dogehouse/issues/1694) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
 <!--END_SECTION:activity-->
 
 ## 🙂 Things to do if you're bored
