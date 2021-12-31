@@ -15,11 +15,11 @@ AKA `MMK21Games`/`MMK21Hub`
 ## 👀 Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#60](https://github.com/LambdAurora/LambdaControls/issues/60) in [LambdAurora/LambdaControls](https://github.com/LambdAurora/LambdaControls)
-2. ❗️ Closed issue [#1562](https://github.com/benawad/dogehouse/issues/1562) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
-3. 🗣 Commented on [#1562](https://github.com/benawad/dogehouse/issues/1562) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
-4. ❗️ Closed issue [#1697](https://github.com/benawad/dogehouse/issues/1697) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
-5. 🗣 Commented on [#1697](https://github.com/benawad/dogehouse/issues/1697) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+1. 🗣 Commented on [#530](https://github.com/notable/notable/issues/530) in [notable/notable](https://github.com/notable/notable)
+2. 🗣 Commented on [#1542](https://github.com/notable/notable/issues/1542) in [notable/notable](https://github.com/notable/notable)
+3. 💪 Opened PR [#13](https://github.com/x6r/dracula/pull/13) in [x6r/dracula](https://github.com/x6r/dracula)
+4. 🗣 Commented on [#2](https://github.com/MMK21Hub/prismarine-bot/issues/2) in [MMK21Hub/prismarine-bot](https://github.com/MMK21Hub/prismarine-bot)
+5. 🗣 Commented on [#9](https://github.com/MMK21Hub/prismarine-bot/issues/9) in [MMK21Hub/prismarine-bot](https://github.com/MMK21Hub/prismarine-bot)
 <!--END_SECTION:activity-->
 
 ## 🙂 Random things that I found
