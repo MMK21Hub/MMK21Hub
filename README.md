@@ -13,10 +13,10 @@ AKA `MMK21Games`/`MMK21Hub`
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1419](https://github.com/notable/notable/issues/1419) in [notable/notable](https://github.com/notable/notable)
-2. 🗣 Commented on [#530](https://github.com/notable/notable/issues/530) in [notable/notable](https://github.com/notable/notable)
-3. 🗣 Commented on [#1542](https://github.com/notable/notable/issues/1542) in [notable/notable](https://github.com/notable/notable)
-4. 🗣 Commented on [#2](https://github.com/MMK21Hub/prismarine-bot/issues/2) in [MMK21Hub/prismarine-bot](https://github.com/MMK21Hub/prismarine-bot)
+1. 🗣 Commented on [#1576](https://github.com/notable/notable/issues/1576) in [notable/notable](https://github.com/notable/notable)
+2. 🗣 Commented on [#1419](https://github.com/notable/notable/issues/1419) in [notable/notable](https://github.com/notable/notable)
+3. 🗣 Commented on [#530](https://github.com/notable/notable/issues/530) in [notable/notable](https://github.com/notable/notable)
+4. 🗣 Commented on [#1542](https://github.com/notable/notable/issues/1542) in [notable/notable](https://github.com/notable/notable)
 5. 🗣 Commented on [#9](https://github.com/MMK21Hub/prismarine-bot/issues/9) in [MMK21Hub/prismarine-bot](https://github.com/MMK21Hub/prismarine-bot)
 <!--END_SECTION:activity-->
 
