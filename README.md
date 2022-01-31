@@ -13,11 +13,11 @@ AKA `MMK21Games`/`MMK21Hub`
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1568](https://github.com/notable/notable/issues/1568) in [notable/notable](https://github.com/notable/notable)
-2. 🗣 Commented on [#1576](https://github.com/notable/notable/issues/1576) in [notable/notable](https://github.com/notable/notable)
-3. 🗣 Commented on [#1419](https://github.com/notable/notable/issues/1419) in [notable/notable](https://github.com/notable/notable)
-4. 🗣 Commented on [#530](https://github.com/notable/notable/issues/530) in [notable/notable](https://github.com/notable/notable)
-5. 🗣 Commented on [#1542](https://github.com/notable/notable/issues/1542) in [notable/notable](https://github.com/notable/notable)
+1. 🗣 Commented on [#363](https://github.com/TerraformersMC/ModMenu/issues/363) in [TerraformersMC/ModMenu](https://github.com/TerraformersMC/ModMenu)
+2. 🗣 Commented on [#1568](https://github.com/notable/notable/issues/1568) in [notable/notable](https://github.com/notable/notable)
+3. 🗣 Commented on [#1576](https://github.com/notable/notable/issues/1576) in [notable/notable](https://github.com/notable/notable)
+4. 🗣 Commented on [#1419](https://github.com/notable/notable/issues/1419) in [notable/notable](https://github.com/notable/notable)
+5. 🗣 Commented on [#530](https://github.com/notable/notable/issues/530) in [notable/notable](https://github.com/notable/notable)
 <!--END_SECTION:activity-->
 
 ## 🙂 Random things that I found
