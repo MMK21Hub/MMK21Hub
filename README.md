@@ -8,7 +8,7 @@ AKA `MMK21Games`/`MMK21Hub`
 
 ## 📊 Stats 
 
-[![MMK21's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MMK21Hub&theme=dark&bg_color=171b22&text_color=CCCCCC&hide_border=true)](https://www.youtube.com/watch?v=DLzxrzFCyOs) ![MMK21's Github stats](https://github-readme-stats.vercel.app/api?username=MMK21Hub&show_icons=true&theme=dark&bg_color=171b22&text_color=CCCCCC&hide_border=true)
+![MMK21's Github stats](https://github-readme-stats.vercel.app/api?username=MMK21Hub&show_icons=true&theme=dark&bg_color=171b22&text_color=CCCCCC&hide_border=true)
 
 ## ⚡ Recent GitHub activity
 
@@ -26,4 +26,4 @@ Did you know you can access the web through the Minecraft Launcher? **Settings**
 
 * 🔎 <https://google.com>
 * ℹ️ <https://amiunique.org>
-* 💥 <http://superinternet.cc/waterfall/> (Couldn't find a website that propely hangs the browser)
+* 💥 <http://superinternet.cc/waterfall/> (Couldn't find a website that properly hangs the browser)
