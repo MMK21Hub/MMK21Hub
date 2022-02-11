@@ -13,11 +13,11 @@ AKA `MMK21Games`/`MMK21Hub`
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#444](https://github.com/notable/notable/issues/444) in [notable/notable](https://github.com/notable/notable)
-2. 💪 Opened PR [#1](https://github.com/MMK21Hub/discord.js/pull/1) in [MMK21Hub/discord.js](https://github.com/MMK21Hub/discord.js)
-3. 🗣 Commented on [#363](https://github.com/TerraformersMC/ModMenu/issues/363) in [TerraformersMC/ModMenu](https://github.com/TerraformersMC/ModMenu)
-4. 🗣 Commented on [#1568](https://github.com/notable/notable/issues/1568) in [notable/notable](https://github.com/notable/notable)
-5. 🗣 Commented on [#1576](https://github.com/notable/notable/issues/1576) in [notable/notable](https://github.com/notable/notable)
+1. 🗣 Commented on [#1580](https://github.com/notable/notable/issues/1580) in [notable/notable](https://github.com/notable/notable)
+2. 🗣 Commented on [#444](https://github.com/notable/notable/issues/444) in [notable/notable](https://github.com/notable/notable)
+3. 💪 Opened PR [#1](https://github.com/MMK21Hub/discord.js/pull/1) in [MMK21Hub/discord.js](https://github.com/MMK21Hub/discord.js)
+4. 🗣 Commented on [#363](https://github.com/TerraformersMC/ModMenu/issues/363) in [TerraformersMC/ModMenu](https://github.com/TerraformersMC/ModMenu)
+5. 🗣 Commented on [#1568](https://github.com/notable/notable/issues/1568) in [notable/notable](https://github.com/notable/notable)
 <!--END_SECTION:activity-->
 
 ## 🙂 Random things that I found
