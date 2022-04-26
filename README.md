@@ -13,11 +13,11 @@ AKA `MMK21Games`/`MMK21Hub`
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/5) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
-2. ❗️ Opened issue [#13](https://github.com/lenk/aliucord-plugins/issues/13) in [lenk/aliucord-plugins](https://github.com/lenk/aliucord-plugins)
-3. 🗣 Commented on [#5](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/5) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
-4. 🗣 Commented on [#1602](https://github.com/notable/notable/issues/1602) in [notable/notable](https://github.com/notable/notable)
-5. 🗣 Commented on [#5](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/5) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
+1. ❗️ Opened issue [#22](https://github.com/mantikafasi/AliucordPlugins/issues/22) in [mantikafasi/AliucordPlugins](https://github.com/mantikafasi/AliucordPlugins)
+2. 🗣 Commented on [#5](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/5) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
+3. ❗️ Opened issue [#13](https://github.com/lenk/aliucord-plugins/issues/13) in [lenk/aliucord-plugins](https://github.com/lenk/aliucord-plugins)
+4. 🗣 Commented on [#5](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/5) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
+5. 🗣 Commented on [#1602](https://github.com/notable/notable/issues/1602) in [notable/notable](https://github.com/notable/notable)
 <!--END_SECTION:activity-->
 
 ## 🙂 Random things that I found
