@@ -14,10 +14,10 @@ AKA `MMK21Games`/`MMK21Hub`
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/5) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
-2. 🗣 Commented on [#109](https://github.com/ArmCord/ArmCord/issues/109) in [ArmCord/ArmCord](https://github.com/ArmCord/ArmCord)
-3. ❗️ Opened issue [#109](https://github.com/ArmCord/ArmCord/issues/109) in [ArmCord/ArmCord](https://github.com/ArmCord/ArmCord)
-4. 🗣 Commented on [#1528](https://github.com/notable/notable/issues/1528) in [notable/notable](https://github.com/notable/notable)
-5. 🗣 Commented on [#5](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/5) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
+2. 🗣 Commented on [#5](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/5) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
+3. 🗣 Commented on [#5](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/5) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
+4. 🗣 Commented on [#109](https://github.com/ArmCord/ArmCord/issues/109) in [ArmCord/ArmCord](https://github.com/ArmCord/ArmCord)
+5. ❗️ Opened issue [#109](https://github.com/ArmCord/ArmCord/issues/109) in [ArmCord/ArmCord](https://github.com/ArmCord/ArmCord)
 <!--END_SECTION:activity-->
 
 ## 🙂 Random things that I found
