@@ -13,11 +13,11 @@ AKA `MMK21Games`/`MMK21Hub`
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1616](https://github.com/notable/notable/issues/1616) in [notable/notable](https://github.com/notable/notable)
-2. ❗️ Closed issue [#1615](https://github.com/notable/notable/issues/1615) in [notable/notable](https://github.com/notable/notable)
-3. 🗣 Commented on [#1615](https://github.com/notable/notable/issues/1615) in [notable/notable](https://github.com/notable/notable)
-4. ❗️ Opened issue [#1615](https://github.com/notable/notable/issues/1615) in [notable/notable](https://github.com/notable/notable)
-5. 🗣 Commented on [#5](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/5) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
+1. 💪 Opened PR [#8](https://github.com/MMK21Hub/Capitalisation-Fixes/pull/8) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
+2. ❗️ Opened issue [#1616](https://github.com/notable/notable/issues/1616) in [notable/notable](https://github.com/notable/notable)
+3. ❗️ Closed issue [#1615](https://github.com/notable/notable/issues/1615) in [notable/notable](https://github.com/notable/notable)
+4. 🗣 Commented on [#1615](https://github.com/notable/notable/issues/1615) in [notable/notable](https://github.com/notable/notable)
+5. ❗️ Opened issue [#1615](https://github.com/notable/notable/issues/1615) in [notable/notable](https://github.com/notable/notable)
 <!--END_SECTION:activity-->
 
 ## 🙂 Random things that I found
