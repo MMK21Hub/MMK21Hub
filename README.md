@@ -13,11 +13,11 @@ AKA `MMK21Games`/`MMK21Hub`
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/misode/mcmeta/issues/4) in [misode/mcmeta](https://github.com/misode/mcmeta)
-2. ❗️ Opened issue [#4](https://github.com/misode/mcmeta/issues/4) in [misode/mcmeta](https://github.com/misode/mcmeta)
-3. 💪 Opened PR [#8](https://github.com/MMK21Hub/Capitalisation-Fixes/pull/8) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
-4. ❗️ Opened issue [#1616](https://github.com/notable/notable/issues/1616) in [notable/notable](https://github.com/notable/notable)
-5. ❗️ Closed issue [#1615](https://github.com/notable/notable/issues/1615) in [notable/notable](https://github.com/notable/notable)
+1. 🗣 Commented on [#7](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/7) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
+2. ❗️ Closed issue [#7](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/7) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
+3. 🎉 Merged PR [#8](https://github.com/MMK21Hub/Capitalisation-Fixes/pull/8) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
+4. ❗️ Closed issue [#6](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/6) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
+5. 🗣 Commented on [#8](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/8) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
 <!--END_SECTION:activity-->
 
 ## 🙂 Random things that I found
