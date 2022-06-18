@@ -13,11 +13,11 @@ AKA `MMK21Games`/`MMK21Hub`
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#531](https://github.com/modrinth/knossos/issues/531) in [modrinth/knossos](https://github.com/modrinth/knossos)
-2. ❗️ Opened issue [#16](https://github.com/lenk/aliucord-plugins/issues/16) in [lenk/aliucord-plugins](https://github.com/lenk/aliucord-plugins)
-3. 🎉 Merged PR [#9](https://github.com/MMK21Hub/Capitalisation-Fixes/pull/9) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
-4. 💪 Opened PR [#9](https://github.com/MMK21Hub/Capitalisation-Fixes/pull/9) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
-5. 🗣 Commented on [#5](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/5) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
+1. 🗣 Commented on [#5](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/5) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
+2. 🗣 Commented on [#531](https://github.com/modrinth/knossos/issues/531) in [modrinth/knossos](https://github.com/modrinth/knossos)
+3. ❗️ Opened issue [#16](https://github.com/lenk/aliucord-plugins/issues/16) in [lenk/aliucord-plugins](https://github.com/lenk/aliucord-plugins)
+4. 🎉 Merged PR [#9](https://github.com/MMK21Hub/Capitalisation-Fixes/pull/9) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
+5. 💪 Opened PR [#9](https://github.com/MMK21Hub/Capitalisation-Fixes/pull/9) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
 <!--END_SECTION:activity-->
 
 ## 🙂 Random things that I found
