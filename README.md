@@ -13,11 +13,11 @@ AKA `MMK21Games`/`MMK21Hub`
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#703](https://github.com/autokey/autokey/issues/703) in [autokey/autokey](https://github.com/autokey/autokey)
-2. 🗣 Commented on [#5](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/5) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
-3. 🗣 Commented on [#531](https://github.com/modrinth/knossos/issues/531) in [modrinth/knossos](https://github.com/modrinth/knossos)
-4. ❗️ Opened issue [#16](https://github.com/lenk/aliucord-plugins/issues/16) in [lenk/aliucord-plugins](https://github.com/lenk/aliucord-plugins)
-5. 🎉 Merged PR [#9](https://github.com/MMK21Hub/Capitalisation-Fixes/pull/9) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
+1. 🗣 Commented on [#213](https://github.com/schollz/find3/issues/213) in [schollz/find3](https://github.com/schollz/find3)
+2. 🗣 Commented on [#208](https://github.com/schollz/find3/issues/208) in [schollz/find3](https://github.com/schollz/find3)
+3. ❗️ Opened issue [#703](https://github.com/autokey/autokey/issues/703) in [autokey/autokey](https://github.com/autokey/autokey)
+4. 🗣 Commented on [#5](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/5) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
+5. 🗣 Commented on [#531](https://github.com/modrinth/knossos/issues/531) in [modrinth/knossos](https://github.com/modrinth/knossos)
 <!--END_SECTION:activity-->
 
 ## 🙂 Random things that I found
