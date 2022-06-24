@@ -13,11 +13,11 @@ AKA `MMK21Games`/`MMK21Hub`
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#213](https://github.com/schollz/find3/issues/213) in [schollz/find3](https://github.com/schollz/find3)
-2. 🗣 Commented on [#208](https://github.com/schollz/find3/issues/208) in [schollz/find3](https://github.com/schollz/find3)
-3. ❗️ Opened issue [#703](https://github.com/autokey/autokey/issues/703) in [autokey/autokey](https://github.com/autokey/autokey)
-4. 🗣 Commented on [#5](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/5) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
-5. 🗣 Commented on [#531](https://github.com/modrinth/knossos/issues/531) in [modrinth/knossos](https://github.com/modrinth/knossos)
+1. 🗣 Commented on [#549](https://github.com/modrinth/knossos/issues/549) in [modrinth/knossos](https://github.com/modrinth/knossos)
+2. ❗️ Opened issue [#549](https://github.com/modrinth/knossos/issues/549) in [modrinth/knossos](https://github.com/modrinth/knossos)
+3. 🗣 Commented on [#213](https://github.com/schollz/find3/issues/213) in [schollz/find3](https://github.com/schollz/find3)
+4. 🗣 Commented on [#208](https://github.com/schollz/find3/issues/208) in [schollz/find3](https://github.com/schollz/find3)
+5. ❗️ Opened issue [#703](https://github.com/autokey/autokey/issues/703) in [autokey/autokey](https://github.com/autokey/autokey)
 <!--END_SECTION:activity-->
 
 ## 🙂 Random things that I found
