@@ -13,11 +13,11 @@ AKA `MMK21Games`/`MMK21Hub`
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#549](https://github.com/modrinth/knossos/issues/549) in [modrinth/knossos](https://github.com/modrinth/knossos)
-2. 🗣 Commented on [#549](https://github.com/modrinth/knossos/issues/549) in [modrinth/knossos](https://github.com/modrinth/knossos)
-3. 🗣 Commented on [#477](https://github.com/notable/notable/issues/477) in [notable/notable](https://github.com/notable/notable)
-4. 🗣 Commented on [#549](https://github.com/modrinth/knossos/issues/549) in [modrinth/knossos](https://github.com/modrinth/knossos)
-5. ❗️ Opened issue [#549](https://github.com/modrinth/knossos/issues/549) in [modrinth/knossos](https://github.com/modrinth/knossos)
+1. 🗣 Commented on [#5](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/5) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
+2. ❗️ Closed issue [#549](https://github.com/modrinth/knossos/issues/549) in [modrinth/knossos](https://github.com/modrinth/knossos)
+3. 🗣 Commented on [#549](https://github.com/modrinth/knossos/issues/549) in [modrinth/knossos](https://github.com/modrinth/knossos)
+4. 🗣 Commented on [#477](https://github.com/notable/notable/issues/477) in [notable/notable](https://github.com/notable/notable)
+5. 🗣 Commented on [#549](https://github.com/modrinth/knossos/issues/549) in [modrinth/knossos](https://github.com/modrinth/knossos)
 <!--END_SECTION:activity-->
 
 ## 🙂 Random things that I found
