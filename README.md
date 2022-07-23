@@ -13,10 +13,10 @@ AKA `MMK21Games`/`MMK21Hub`
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1625](https://github.com/notable/notable/issues/1625) in [notable/notable](https://github.com/notable/notable)
-2. 🗣 Commented on [#5](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/5) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
-3. 🗣 Commented on [#867](https://github.com/PolyMC/PolyMC/issues/867) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
-4. 🗣 Commented on [#867](https://github.com/PolyMC/PolyMC/issues/867) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+1. 💪 Opened PR [#28](https://github.com/mantikafasi/AliucordPlugins/pull/28) in [mantikafasi/AliucordPlugins](https://github.com/mantikafasi/AliucordPlugins)
+2. 🗣 Commented on [#2](https://github.com/fxmorin/FabricatedChatReports/issues/2) in [fxmorin/FabricatedChatReports](https://github.com/fxmorin/FabricatedChatReports)
+3. 🗣 Commented on [#1625](https://github.com/notable/notable/issues/1625) in [notable/notable](https://github.com/notable/notable)
+4. 🗣 Commented on [#5](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/5) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
 5. 🗣 Commented on [#867](https://github.com/PolyMC/PolyMC/issues/867) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
 <!--END_SECTION:activity-->
 
