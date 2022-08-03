@@ -13,11 +13,11 @@ AKA `MMK21Games`/`MMK21Hub`
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/5) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
-2. 💪 Opened PR [#28](https://github.com/mantikafasi/AliucordPlugins/pull/28) in [mantikafasi/AliucordPlugins](https://github.com/mantikafasi/AliucordPlugins)
-3. 🗣 Commented on [#2](https://github.com/fxmorin/FabricatedChatReports/issues/2) in [fxmorin/FabricatedChatReports](https://github.com/fxmorin/FabricatedChatReports)
-4. 🗣 Commented on [#1625](https://github.com/notable/notable/issues/1625) in [notable/notable](https://github.com/notable/notable)
-5. 🗣 Commented on [#5](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/5) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
+1. 🗣 Commented on [#153](https://github.com/EvanHahn/HumanizeDuration.js/issues/153) in [EvanHahn/HumanizeDuration.js](https://github.com/EvanHahn/HumanizeDuration.js)
+2. 🗣 Commented on [#5](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/5) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
+3. 💪 Opened PR [#28](https://github.com/mantikafasi/AliucordPlugins/pull/28) in [mantikafasi/AliucordPlugins](https://github.com/mantikafasi/AliucordPlugins)
+4. 🗣 Commented on [#2](https://github.com/fxmorin/FabricatedChatReports/issues/2) in [fxmorin/FabricatedChatReports](https://github.com/fxmorin/FabricatedChatReports)
+5. 🗣 Commented on [#1625](https://github.com/notable/notable/issues/1625) in [notable/notable](https://github.com/notable/notable)
 <!--END_SECTION:activity-->
 
 ## 🙂 Random things that I found
