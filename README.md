@@ -13,11 +13,11 @@ AKA `MMK21Games`/`MMK21Hub`
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1730](https://github.com/MarcusWolschon/osmeditor4android/issues/1730) in [MarcusWolschon/osmeditor4android](https://github.com/MarcusWolschon/osmeditor4android)
-2. 🗣 Commented on [#5](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/5) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
-3. 🗣 Commented on [#178](https://github.com/jaruba/ha-samsungtv-tizen/issues/178) in [jaruba/ha-samsungtv-tizen](https://github.com/jaruba/ha-samsungtv-tizen)
-4. 🗣 Commented on [#153](https://github.com/EvanHahn/HumanizeDuration.js/issues/153) in [EvanHahn/HumanizeDuration.js](https://github.com/EvanHahn/HumanizeDuration.js)
-5. 🗣 Commented on [#5](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/5) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
+1. 🗣 Commented on [#12](https://github.com/Odyssey346/Griefficient/issues/12) in [Odyssey346/Griefficient](https://github.com/Odyssey346/Griefficient)
+2. 🗣 Commented on [#629](https://github.com/modrinth/knossos/issues/629) in [modrinth/knossos](https://github.com/modrinth/knossos)
+3. ❗️ Opened issue [#1730](https://github.com/MarcusWolschon/osmeditor4android/issues/1730) in [MarcusWolschon/osmeditor4android](https://github.com/MarcusWolschon/osmeditor4android)
+4. 🗣 Commented on [#5](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/5) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
+5. 🗣 Commented on [#178](https://github.com/jaruba/ha-samsungtv-tizen/issues/178) in [jaruba/ha-samsungtv-tizen](https://github.com/jaruba/ha-samsungtv-tizen)
 <!--END_SECTION:activity-->
 
 ## 🙂 Random things that I found
