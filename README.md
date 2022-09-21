@@ -13,11 +13,11 @@ AKA `MMK21Games`/`MMK21Hub`
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1633](https://github.com/notable/notable/issues/1633) in [notable/notable](https://github.com/notable/notable)
-2. 🗣 Commented on [#1631](https://github.com/notable/notable/issues/1631) in [notable/notable](https://github.com/notable/notable)
-3. 🗣 Commented on [#12](https://github.com/Odyssey346/Griefficient/issues/12) in [Odyssey346/Griefficient](https://github.com/Odyssey346/Griefficient)
-4. 🗣 Commented on [#629](https://github.com/modrinth/knossos/issues/629) in [modrinth/knossos](https://github.com/modrinth/knossos)
-5. ❗️ Opened issue [#1730](https://github.com/MarcusWolschon/osmeditor4android/issues/1730) in [MarcusWolschon/osmeditor4android](https://github.com/MarcusWolschon/osmeditor4android)
+1. 🗣 Commented on [#88](https://github.com/notable/notable/issues/88) in [notable/notable](https://github.com/notable/notable)
+2. ❗️ Opened issue [#1633](https://github.com/notable/notable/issues/1633) in [notable/notable](https://github.com/notable/notable)
+3. 🗣 Commented on [#1631](https://github.com/notable/notable/issues/1631) in [notable/notable](https://github.com/notable/notable)
+4. 🗣 Commented on [#12](https://github.com/Odyssey346/Griefficient/issues/12) in [Odyssey346/Griefficient](https://github.com/Odyssey346/Griefficient)
+5. 🗣 Commented on [#629](https://github.com/modrinth/knossos/issues/629) in [modrinth/knossos](https://github.com/modrinth/knossos)
 <!--END_SECTION:activity-->
 
 ## 🙂 Random things that I found
