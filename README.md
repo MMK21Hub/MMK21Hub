@@ -13,11 +13,11 @@ AKA `MMK21Games`/`MMK21Hub`
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/fireship-io/node-crypto-examples/issues/4) in [fireship-io/node-crypto-examples](https://github.com/fireship-io/node-crypto-examples)
-2. 🗣 Commented on [#88](https://github.com/notable/notable/issues/88) in [notable/notable](https://github.com/notable/notable)
-3. ❗️ Opened issue [#1633](https://github.com/notable/notable/issues/1633) in [notable/notable](https://github.com/notable/notable)
-4. 🗣 Commented on [#1631](https://github.com/notable/notable/issues/1631) in [notable/notable](https://github.com/notable/notable)
-5. 🗣 Commented on [#12](https://github.com/Odyssey346/Griefficient/issues/12) in [Odyssey346/Griefficient](https://github.com/Odyssey346/Griefficient)
+1. 🗣 Commented on [#1636](https://github.com/notable/notable/issues/1636) in [notable/notable](https://github.com/notable/notable)
+2. 🗣 Commented on [#4](https://github.com/fireship-io/node-crypto-examples/issues/4) in [fireship-io/node-crypto-examples](https://github.com/fireship-io/node-crypto-examples)
+3. 🗣 Commented on [#88](https://github.com/notable/notable/issues/88) in [notable/notable](https://github.com/notable/notable)
+4. ❗️ Opened issue [#1633](https://github.com/notable/notable/issues/1633) in [notable/notable](https://github.com/notable/notable)
+5. 🗣 Commented on [#1631](https://github.com/notable/notable/issues/1631) in [notable/notable](https://github.com/notable/notable)
 <!--END_SECTION:activity-->
 
 ## 🙂 Random things that I found
