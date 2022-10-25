@@ -13,11 +13,11 @@ AKA `MMK21Games`/`MMK21Hub`
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#271](https://github.com/PrismLauncher/PrismLauncher/issues/271) in [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher)
-2. 🗣 Commented on [#44](https://github.com/leaningtech/webvm/issues/44) in [leaningtech/webvm](https://github.com/leaningtech/webvm)
-3. 💪 Opened PR [#123](https://github.com/PrismLauncher/PrismLauncher/pull/123) in [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher)
-4. 🗣 Commented on [#5](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/5) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
-5. 🗣 Commented on [#1638](https://github.com/notable/notable/issues/1638) in [notable/notable](https://github.com/notable/notable)
+1. 🗣 Commented on [#250](https://github.com/PrismLauncher/PrismLauncher/issues/250) in [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher)
+2. 🗣 Commented on [#277](https://github.com/PrismLauncher/PrismLauncher/issues/277) in [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher)
+3. ❗️ Opened issue [#469](https://github.com/modrinth/labrinth/issues/469) in [modrinth/labrinth](https://github.com/modrinth/labrinth)
+4. 🗣 Commented on [#271](https://github.com/PrismLauncher/PrismLauncher/issues/271) in [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher)
+5. 🗣 Commented on [#44](https://github.com/leaningtech/webvm/issues/44) in [leaningtech/webvm](https://github.com/leaningtech/webvm)
 <!--END_SECTION:activity-->
 
 ## 🙂 Random things that I found
