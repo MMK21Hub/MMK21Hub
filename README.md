@@ -13,11 +13,11 @@ AKA `MMK21Games`/`MMK21Hub`
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#76](https://github.com/modrinth/docs/issues/76) in [modrinth/docs](https://github.com/modrinth/docs)
-2. 🗣 Commented on [#1641](https://github.com/notable/notable/issues/1641) in [notable/notable](https://github.com/notable/notable)
+1. 🗣 Commented on [#5](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/5) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
+2. ❗️ Opened issue [#76](https://github.com/modrinth/docs/issues/76) in [modrinth/docs](https://github.com/modrinth/docs)
 3. 🗣 Commented on [#1641](https://github.com/notable/notable/issues/1641) in [notable/notable](https://github.com/notable/notable)
 4. 🗣 Commented on [#1641](https://github.com/notable/notable/issues/1641) in [notable/notable](https://github.com/notable/notable)
-5. 🗣 Commented on [#66](https://github.com/abh80/smart-edge/issues/66) in [abh80/smart-edge](https://github.com/abh80/smart-edge)
+5. 🗣 Commented on [#1641](https://github.com/notable/notable/issues/1641) in [notable/notable](https://github.com/notable/notable)
 <!--END_SECTION:activity-->
 
 ## 🙂 Random things that I found
