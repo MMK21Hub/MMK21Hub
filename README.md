@@ -13,9 +13,9 @@ AKA `MMK21Games`/`MMK21Hub`
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/5) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
-2. ❗️ Opened issue [#76](https://github.com/modrinth/docs/issues/76) in [modrinth/docs](https://github.com/modrinth/docs)
-3. 🗣 Commented on [#1641](https://github.com/notable/notable/issues/1641) in [notable/notable](https://github.com/notable/notable)
+1. ❗️ Opened issue [#745](https://github.com/modrinth/knossos/issues/745) in [modrinth/knossos](https://github.com/modrinth/knossos)
+2. 🗣 Commented on [#5](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/5) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
+3. ❗️ Opened issue [#76](https://github.com/modrinth/docs/issues/76) in [modrinth/docs](https://github.com/modrinth/docs)
 4. 🗣 Commented on [#1641](https://github.com/notable/notable/issues/1641) in [notable/notable](https://github.com/notable/notable)
 5. 🗣 Commented on [#1641](https://github.com/notable/notable/issues/1641) in [notable/notable](https://github.com/notable/notable)
 <!--END_SECTION:activity-->
