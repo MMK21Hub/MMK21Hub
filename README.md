@@ -14,10 +14,10 @@ AKA `MMK21Games`/`MMK21Hub`
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1646](https://github.com/notable/notable/issues/1646) in [notable/notable](https://github.com/notable/notable)
-2. 🗣 Commented on [#1645](https://github.com/notable/notable/issues/1645) in [notable/notable](https://github.com/notable/notable)
-3. 🗣 Commented on [#1646](https://github.com/notable/notable/issues/1646) in [notable/notable](https://github.com/notable/notable)
-4. 🗣 Commented on [#1645](https://github.com/notable/notable/issues/1645) in [notable/notable](https://github.com/notable/notable)
-5. ❗️ Closed issue [#745](https://github.com/modrinth/knossos/issues/745) in [modrinth/knossos](https://github.com/modrinth/knossos)
+2. 🗣 Commented on [#1646](https://github.com/notable/notable/issues/1646) in [notable/notable](https://github.com/notable/notable)
+3. 🗣 Commented on [#1645](https://github.com/notable/notable/issues/1645) in [notable/notable](https://github.com/notable/notable)
+4. 🗣 Commented on [#1646](https://github.com/notable/notable/issues/1646) in [notable/notable](https://github.com/notable/notable)
+5. 🗣 Commented on [#1645](https://github.com/notable/notable/issues/1645) in [notable/notable](https://github.com/notable/notable)
 <!--END_SECTION:activity-->
 
 ## 🙂 Random things that I found
