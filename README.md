@@ -13,11 +13,11 @@ AKA `MMK21Games`/`MMK21Hub`
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#292](https://github.com/PrismLauncher/PrismLauncher/issues/292) in [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher)
-2. 🗣 Commented on [#1646](https://github.com/notable/notable/issues/1646) in [notable/notable](https://github.com/notable/notable)
+1. 🗣 Commented on [#5](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/5) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
+2. 🗣 Commented on [#292](https://github.com/PrismLauncher/PrismLauncher/issues/292) in [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher)
 3. 🗣 Commented on [#1646](https://github.com/notable/notable/issues/1646) in [notable/notable](https://github.com/notable/notable)
-4. 🗣 Commented on [#1645](https://github.com/notable/notable/issues/1645) in [notable/notable](https://github.com/notable/notable)
-5. 🗣 Commented on [#1646](https://github.com/notable/notable/issues/1646) in [notable/notable](https://github.com/notable/notable)
+4. 🗣 Commented on [#1646](https://github.com/notable/notable/issues/1646) in [notable/notable](https://github.com/notable/notable)
+5. 🗣 Commented on [#1645](https://github.com/notable/notable/issues/1645) in [notable/notable](https://github.com/notable/notable)
 <!--END_SECTION:activity-->
 
 ## 🙂 Random things that I found
