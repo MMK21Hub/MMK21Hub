@@ -13,10 +13,10 @@ AKA `MMK21Games`/`MMK21Hub`
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/11) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
-2. 🎉 Merged PR [#10](https://github.com/MMK21Hub/Capitalisation-Fixes/pull/10) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
-3. 💪 Opened PR [#10](https://github.com/MMK21Hub/Capitalisation-Fixes/pull/10) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
-4. 🗣 Commented on [#5](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/5) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
+1. 🗣 Commented on [#5](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/5) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
+2. ❗️ Opened issue [#11](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/11) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
+3. 🎉 Merged PR [#10](https://github.com/MMK21Hub/Capitalisation-Fixes/pull/10) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
+4. 💪 Opened PR [#10](https://github.com/MMK21Hub/Capitalisation-Fixes/pull/10) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
 5. 🗣 Commented on [#5](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/5) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
 <!--END_SECTION:activity-->
 
