@@ -13,11 +13,11 @@ AKA `MMK21Games`/`MMK21Hub`
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6656](https://github.com/ShareX/ShareX/pull/6656) in [ShareX/ShareX](https://github.com/ShareX/ShareX)
-2. 🗣 Commented on [#76](https://github.com/modrinth/docs/issues/76) in [modrinth/docs](https://github.com/modrinth/docs)
-3. 🗣 Commented on [#5](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/5) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
-4. ❗️ Opened issue [#11](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/11) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
-5. 🎉 Merged PR [#10](https://github.com/MMK21Hub/Capitalisation-Fixes/pull/10) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
+1. ❗️ Opened issue [#824](https://github.com/modrinth/knossos/issues/824) in [modrinth/knossos](https://github.com/modrinth/knossos)
+2. 🗣 Commented on [#1606](https://github.com/notable/notable/issues/1606) in [notable/notable](https://github.com/notable/notable)
+3. 💪 Opened PR [#6656](https://github.com/ShareX/ShareX/pull/6656) in [ShareX/ShareX](https://github.com/ShareX/ShareX)
+4. 🗣 Commented on [#76](https://github.com/modrinth/docs/issues/76) in [modrinth/docs](https://github.com/modrinth/docs)
+5. 🗣 Commented on [#5](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/5) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
 <!--END_SECTION:activity-->
 
 ## 🙂 Random things that I found
