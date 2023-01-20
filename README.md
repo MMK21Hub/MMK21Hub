@@ -13,11 +13,11 @@ AKA `MMK21Games`/`MMK21Hub`
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6656](https://github.com/ShareX/ShareX/pull/6656) in [ShareX/ShareX](https://github.com/ShareX/ShareX)
-2. 🗣 Commented on [#6656](https://github.com/ShareX/ShareX/issues/6656) in [ShareX/ShareX](https://github.com/ShareX/ShareX)
-3. 🗣 Commented on [#1656](https://github.com/notable/notable/issues/1656) in [notable/notable](https://github.com/notable/notable)
-4. 🗣 Commented on [#1656](https://github.com/notable/notable/issues/1656) in [notable/notable](https://github.com/notable/notable)
-5. ❗️ Opened issue [#824](https://github.com/modrinth/knossos/issues/824) in [modrinth/knossos](https://github.com/modrinth/knossos)
+1. ❗️ Opened issue [#932](https://github.com/modrinth/knossos/issues/932) in [modrinth/knossos](https://github.com/modrinth/knossos)
+2. ❗️ Closed issue [#931](https://github.com/modrinth/knossos/issues/931) in [modrinth/knossos](https://github.com/modrinth/knossos)
+3. 🗣 Commented on [#931](https://github.com/modrinth/knossos/issues/931) in [modrinth/knossos](https://github.com/modrinth/knossos)
+4. ❗️ Opened issue [#931](https://github.com/modrinth/knossos/issues/931) in [modrinth/knossos](https://github.com/modrinth/knossos)
+5. 🗣 Commented on [#587](https://github.com/modrinth/knossos/issues/587) in [modrinth/knossos](https://github.com/modrinth/knossos)
 <!--END_SECTION:activity-->
 
 ## 🙂 Random things that I found
