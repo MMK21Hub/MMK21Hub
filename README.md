@@ -13,11 +13,11 @@ AKA `MMK21Games`/`MMK21Hub`
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#937](https://github.com/modrinth/knossos/issues/937) in [modrinth/knossos](https://github.com/modrinth/knossos)
-2. ❗️ Opened issue [#936](https://github.com/modrinth/knossos/issues/936) in [modrinth/knossos](https://github.com/modrinth/knossos)
-3. 🗣 Commented on [#728](https://github.com/modrinth/knossos/issues/728) in [modrinth/knossos](https://github.com/modrinth/knossos)
-4. 🗣 Commented on [#934](https://github.com/modrinth/knossos/issues/934) in [modrinth/knossos](https://github.com/modrinth/knossos)
-5. ❗️ Opened issue [#934](https://github.com/modrinth/knossos/issues/934) in [modrinth/knossos](https://github.com/modrinth/knossos)
+1. ❗️ Opened issue [#941](https://github.com/modrinth/knossos/issues/941) in [modrinth/knossos](https://github.com/modrinth/knossos)
+2. ❗️ Opened issue [#940](https://github.com/modrinth/knossos/issues/940) in [modrinth/knossos](https://github.com/modrinth/knossos)
+3. ❗️ Opened issue [#939](https://github.com/modrinth/knossos/issues/939) in [modrinth/knossos](https://github.com/modrinth/knossos)
+4. ❗️ Opened issue [#937](https://github.com/modrinth/knossos/issues/937) in [modrinth/knossos](https://github.com/modrinth/knossos)
+5. ❗️ Opened issue [#936](https://github.com/modrinth/knossos/issues/936) in [modrinth/knossos](https://github.com/modrinth/knossos)
 <!--END_SECTION:activity-->
 
 ## 🙂 Random things that I found
