@@ -13,11 +13,11 @@ AKA `MMK21Games`/`MMK21Hub`
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#809](https://github.com/modrinth/knossos/issues/809) in [modrinth/knossos](https://github.com/modrinth/knossos)
-2. ❗️ Opened issue [#971](https://github.com/modrinth/knossos/issues/971) in [modrinth/knossos](https://github.com/modrinth/knossos)
-3. ❗️ Opened issue [#970](https://github.com/modrinth/knossos/issues/970) in [modrinth/knossos](https://github.com/modrinth/knossos)
-4. ❗️ Opened issue [#969](https://github.com/modrinth/knossos/issues/969) in [modrinth/knossos](https://github.com/modrinth/knossos)
-5. ❗️ Opened issue [#968](https://github.com/modrinth/knossos/issues/968) in [modrinth/knossos](https://github.com/modrinth/knossos)
+1. 🗣 Commented on [#981](https://github.com/modrinth/knossos/issues/981) in [modrinth/knossos](https://github.com/modrinth/knossos)
+2. 🗣 Commented on [#77731](https://github.com/home-assistant/core/issues/77731) in [home-assistant/core](https://github.com/home-assistant/core)
+3. ❗️ Opened issue [#2256](https://github.com/timmo001/system-bridge/issues/2256) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+4. 🗣 Commented on [#809](https://github.com/modrinth/knossos/issues/809) in [modrinth/knossos](https://github.com/modrinth/knossos)
+5. ❗️ Opened issue [#971](https://github.com/modrinth/knossos/issues/971) in [modrinth/knossos](https://github.com/modrinth/knossos)
 <!--END_SECTION:activity-->
 
 ## 🙂 Random things that I found
