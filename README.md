@@ -13,11 +13,11 @@ AKA `MMK21Games`/`MMK21Hub`
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#123](https://github.com/notable/notable/issues/123) in [notable/notable](https://github.com/notable/notable)
-2. 🗣 Commented on [#2256](https://github.com/timmo001/system-bridge/issues/2256) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
-3. ❗️ Opened issue [#12](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/12) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
-4. 🗣 Commented on [#1015](https://github.com/modrinth/knossos/issues/1015) in [modrinth/knossos](https://github.com/modrinth/knossos)
-5. 🗣 Commented on [#1007](https://github.com/modrinth/knossos/issues/1007) in [modrinth/knossos](https://github.com/modrinth/knossos)
+1. ❗️ Opened issue [#1033](https://github.com/modrinth/knossos/issues/1033) in [modrinth/knossos](https://github.com/modrinth/knossos)
+2. ❗️ Closed issue [#936](https://github.com/modrinth/knossos/issues/936) in [modrinth/knossos](https://github.com/modrinth/knossos)
+3. 🗣 Commented on [#936](https://github.com/modrinth/knossos/issues/936) in [modrinth/knossos](https://github.com/modrinth/knossos)
+4. 🗣 Commented on [#123](https://github.com/notable/notable/issues/123) in [notable/notable](https://github.com/notable/notable)
+5. 🗣 Commented on [#2256](https://github.com/timmo001/system-bridge/issues/2256) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
 <!--END_SECTION:activity-->
 
 ## 🙂 Random things that I found
