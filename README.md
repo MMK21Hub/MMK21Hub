@@ -13,11 +13,11 @@ AKA `MMK21Games`/`MMK21Hub`
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1670](https://github.com/notable/notable/issues/1670) in [notable/notable](https://github.com/notable/notable)
-2. 🗣 Commented on [#1671](https://github.com/notable/notable/issues/1671) in [notable/notable](https://github.com/notable/notable)
-3. ❗️ Opened issue [#549](https://github.com/Zverik/every_door/issues/549) in [Zverik/every_door](https://github.com/Zverik/every_door)
-4. ❗️ Opened issue [#1046](https://github.com/modrinth/knossos/issues/1046) in [modrinth/knossos](https://github.com/modrinth/knossos)
-5. 🗣 Commented on [#1045](https://github.com/modrinth/knossos/issues/1045) in [modrinth/knossos](https://github.com/modrinth/knossos)
+1. 🗣 Commented on [#1673](https://github.com/notable/notable/issues/1673) in [notable/notable](https://github.com/notable/notable)
+2. 🗣 Commented on [#1670](https://github.com/notable/notable/issues/1670) in [notable/notable](https://github.com/notable/notable)
+3. 🗣 Commented on [#1673](https://github.com/notable/notable/issues/1673) in [notable/notable](https://github.com/notable/notable)
+4. 🗣 Commented on [#1671](https://github.com/notable/notable/issues/1671) in [notable/notable](https://github.com/notable/notable)
+5. 🗣 Commented on [#1670](https://github.com/notable/notable/issues/1670) in [notable/notable](https://github.com/notable/notable)
 <!--END_SECTION:activity-->
 
 ## 🙂 Random things that I found
