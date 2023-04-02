@@ -13,11 +13,11 @@ AKA `MMK21Games`/`MMK21Hub`
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1673](https://github.com/notable/notable/issues/1673) in [notable/notable](https://github.com/notable/notable)
-2. 🗣 Commented on [#1670](https://github.com/notable/notable/issues/1670) in [notable/notable](https://github.com/notable/notable)
-3. 🗣 Commented on [#1673](https://github.com/notable/notable/issues/1673) in [notable/notable](https://github.com/notable/notable)
-4. 🗣 Commented on [#1671](https://github.com/notable/notable/issues/1671) in [notable/notable](https://github.com/notable/notable)
-5. 🗣 Commented on [#1670](https://github.com/notable/notable/issues/1670) in [notable/notable](https://github.com/notable/notable)
+1. 🗣 Commented on [#1671](https://github.com/notable/notable/issues/1671) in [notable/notable](https://github.com/notable/notable)
+2. 🗣 Commented on [#1673](https://github.com/notable/notable/issues/1673) in [notable/notable](https://github.com/notable/notable)
+3. 🗣 Commented on [#1670](https://github.com/notable/notable/issues/1670) in [notable/notable](https://github.com/notable/notable)
+4. 🗣 Commented on [#1673](https://github.com/notable/notable/issues/1673) in [notable/notable](https://github.com/notable/notable)
+5. 🗣 Commented on [#1671](https://github.com/notable/notable/issues/1671) in [notable/notable](https://github.com/notable/notable)
 <!--END_SECTION:activity-->
 
 ## 🙂 Random things that I found
