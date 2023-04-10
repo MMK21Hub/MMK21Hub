@@ -13,11 +13,11 @@ AKA `MMK21Games`/`MMK21Hub`
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1671](https://github.com/notable/notable/issues/1671) in [notable/notable](https://github.com/notable/notable)
-2. 🗣 Commented on [#1673](https://github.com/notable/notable/issues/1673) in [notable/notable](https://github.com/notable/notable)
-3. 🗣 Commented on [#1670](https://github.com/notable/notable/issues/1670) in [notable/notable](https://github.com/notable/notable)
-4. 🗣 Commented on [#1673](https://github.com/notable/notable/issues/1673) in [notable/notable](https://github.com/notable/notable)
-5. 🗣 Commented on [#1671](https://github.com/notable/notable/issues/1671) in [notable/notable](https://github.com/notable/notable)
+1. 🗣 Commented on [#1084](https://github.com/modrinth/knossos/issues/1084) in [modrinth/knossos](https://github.com/modrinth/knossos)
+2. 🗣 Commented on [#1087](https://github.com/modrinth/knossos/issues/1087) in [modrinth/knossos](https://github.com/modrinth/knossos)
+3. 🗣 Commented on [#1072](https://github.com/modrinth/knossos/issues/1072) in [modrinth/knossos](https://github.com/modrinth/knossos)
+4. ❗️ Closed issue [#2256](https://github.com/timmo001/system-bridge/issues/2256) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+5. 🗣 Commented on [#2256](https://github.com/timmo001/system-bridge/issues/2256) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
 <!--END_SECTION:activity-->
 
 ## 🙂 Random things that I found
