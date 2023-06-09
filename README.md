@@ -13,11 +13,11 @@ AKA `MMK21Games`/`MMK21Hub`
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#169](https://github.com/openstreetmap/id-tagging-schema/issues/169) in [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
-2. 🗣 Commented on [#729](https://github.com/openstreetmap/id-tagging-schema/issues/729) in [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
-3. 🗣 Commented on [#1645](https://github.com/notable/notable/issues/1645) in [notable/notable](https://github.com/notable/notable)
-4. 🗣 Commented on [#1525](https://github.com/notable/notable/issues/1525) in [notable/notable](https://github.com/notable/notable)
-5. 🗣 Commented on [#1680](https://github.com/notable/notable/issues/1680) in [notable/notable](https://github.com/notable/notable)
+1. 🗣 Commented on [#1125](https://github.com/modrinth/knossos/issues/1125) in [modrinth/knossos](https://github.com/modrinth/knossos)
+2. 🗣 Commented on [#1108](https://github.com/modrinth/knossos/issues/1108) in [modrinth/knossos](https://github.com/modrinth/knossos)
+3. 🗣 Commented on [#1156](https://github.com/modrinth/knossos/issues/1156) in [modrinth/knossos](https://github.com/modrinth/knossos)
+4. 🗣 Commented on [#1158](https://github.com/modrinth/knossos/issues/1158) in [modrinth/knossos](https://github.com/modrinth/knossos)
+5. 🗣 Commented on [#1163](https://github.com/modrinth/knossos/issues/1163) in [modrinth/knossos](https://github.com/modrinth/knossos)
 <!--END_SECTION:activity-->
 
 ## 🙂 Random things that I found
