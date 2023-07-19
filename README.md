@@ -13,11 +13,11 @@ AKA `MMK21Games`/`MMK21Hub`
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#266](https://github.com/ksya/ha-nefiteasy/issues/266) in [ksya/ha-nefiteasy](https://github.com/ksya/ha-nefiteasy)
-2. 🗣 Commented on [#1221](https://github.com/modrinth/knossos/issues/1221#issuecomment-1636731714) in [modrinth/knossos](https://github.com/modrinth/knossos)
-3. 💪 Opened PR [#1205](https://github.com/modrinth/knossos/pull/1205) in [modrinth/knossos](https://github.com/modrinth/knossos)
-4. 🗣 Commented on [#1204](https://github.com/modrinth/knossos/issues/1204#issuecomment-1592922853) in [modrinth/knossos](https://github.com/modrinth/knossos)
-5. ❗ Opened issue [#1204](https://github.com/modrinth/knossos/issues/1204) in [modrinth/knossos](https://github.com/modrinth/knossos)
+1. 🗣 Commented on [#1228](https://github.com/modrinth/knossos/issues/1228#issuecomment-1640158555) in [modrinth/knossos](https://github.com/modrinth/knossos)
+2. 🗣 Commented on [#1221](https://github.com/modrinth/knossos/issues/1221#issuecomment-1640157014) in [modrinth/knossos](https://github.com/modrinth/knossos)
+3. 🗣 Commented on [#1223](https://github.com/PrismLauncher/PrismLauncher/issues/1223#issuecomment-1640111597) in [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher)
+4. ❗ Opened issue [#266](https://github.com/ksya/ha-nefiteasy/issues/266) in [ksya/ha-nefiteasy](https://github.com/ksya/ha-nefiteasy)
+5. 🗣 Commented on [#1221](https://github.com/modrinth/knossos/issues/1221#issuecomment-1636731714) in [modrinth/knossos](https://github.com/modrinth/knossos)
 <!--END_SECTION:activity-->
 
 ## 🙂 Random things that I found
