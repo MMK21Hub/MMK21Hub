@@ -13,11 +13,11 @@ AKA `MMK21Games`/`MMK21Hub`
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1223](https://github.com/PrismLauncher/PrismLauncher/issues/1223#issuecomment-1643603703) in [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher)
-2. 🗣 Commented on [#1410](https://github.com/PrismLauncher/PrismLauncher/issues/1410#issuecomment-1643586324) in [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher)
-3. ❗ Opened issue [#1410](https://github.com/PrismLauncher/PrismLauncher/issues/1410) in [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher)
-4. 🗣 Commented on [#1228](https://github.com/modrinth/knossos/issues/1228#issuecomment-1640158555) in [modrinth/knossos](https://github.com/modrinth/knossos)
-5. 🗣 Commented on [#1221](https://github.com/modrinth/knossos/issues/1221#issuecomment-1640157014) in [modrinth/knossos](https://github.com/modrinth/knossos)
+1. 🗣 Commented on [#1410](https://github.com/PrismLauncher/PrismLauncher/issues/1410#issuecomment-1646797407) in [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher)
+2. 🗣 Commented on [#1223](https://github.com/PrismLauncher/PrismLauncher/issues/1223#issuecomment-1643603703) in [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher)
+3. 🗣 Commented on [#1410](https://github.com/PrismLauncher/PrismLauncher/issues/1410#issuecomment-1643586324) in [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher)
+4. ❗ Opened issue [#1410](https://github.com/PrismLauncher/PrismLauncher/issues/1410) in [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher)
+5. 🗣 Commented on [#1228](https://github.com/modrinth/knossos/issues/1228#issuecomment-1640158555) in [modrinth/knossos](https://github.com/modrinth/knossos)
 <!--END_SECTION:activity-->
 
 ## 🙂 Random things that I found
