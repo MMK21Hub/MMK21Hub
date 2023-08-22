@@ -11,11 +11,11 @@ AKA `MMK21Games`/`MMK21Hub`
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#13](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/13) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
-2. 🗣 Commented on [#1307](https://github.com/modrinth/knossos/issues/1307#issuecomment-1678991964) in [modrinth/knossos](https://github.com/modrinth/knossos)
-3. ❗ Opened issue [#1306](https://github.com/modrinth/knossos/issues/1306) in [modrinth/knossos](https://github.com/modrinth/knossos)
-4. ❗ Opened issue [#1305](https://github.com/modrinth/knossos/issues/1305) in [modrinth/knossos](https://github.com/modrinth/knossos)
-5. ❗ Opened issue [#1303](https://github.com/modrinth/knossos/issues/1303) in [modrinth/knossos](https://github.com/modrinth/knossos)
+1. 🗣 Commented on [#13](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/13#issuecomment-1685914660) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
+2. 🗣 Commented on [#5](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/5#issuecomment-1685910547) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
+3. 🗣 Commented on [#1324](https://github.com/modrinth/knossos/issues/1324#issuecomment-1685865799) in [modrinth/knossos](https://github.com/modrinth/knossos)
+4. ❗ Opened issue [#1325](https://github.com/modrinth/knossos/issues/1325) in [modrinth/knossos](https://github.com/modrinth/knossos)
+5. ❗ Opened issue [#13](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/13) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
 <!--END_SECTION:activity-->
 
 ## 🙂 Minecraft Launcher shenanigans
