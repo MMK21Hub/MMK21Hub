@@ -11,11 +11,11 @@ AKA `MMK21Games`/`MMK21Hub`
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1204](https://github.com/modrinth/knossos/issues/1204#issuecomment-1751746354) in [modrinth/knossos](https://github.com/modrinth/knossos)
-2. 🗣 Commented on [#5](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/5#issuecomment-1739247156) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
-3. 🗣 Commented on [#5](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/5#issuecomment-1724390145) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
-4. 🗣 Commented on [#1358](https://github.com/modrinth/knossos/issues/1358#issuecomment-1722259388) in [modrinth/knossos](https://github.com/modrinth/knossos)
-5. 🗣 Commented on [#1352](https://github.com/modrinth/knossos/issues/1352#issuecomment-1708869260) in [modrinth/knossos](https://github.com/modrinth/knossos)
+1. 🗣 Commented on [#266](https://github.com/ksya/ha-nefiteasy/issues/266#issuecomment-1793451560) in [ksya/ha-nefiteasy](https://github.com/ksya/ha-nefiteasy)
+2. 🗣 Commented on [#1223](https://github.com/PrismLauncher/PrismLauncher/issues/1223#issuecomment-1793367786) in [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher)
+3. 🗣 Commented on [#1204](https://github.com/modrinth/knossos/issues/1204#issuecomment-1751746354) in [modrinth/knossos](https://github.com/modrinth/knossos)
+4. 🗣 Commented on [#5](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/5#issuecomment-1739247156) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
+5. 🗣 Commented on [#5](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/5#issuecomment-1724390145) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
 <!--END_SECTION:activity-->
 
 ## 🙂 Minecraft Launcher shenanigans
