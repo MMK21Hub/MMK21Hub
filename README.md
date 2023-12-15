@@ -11,11 +11,11 @@ AKA `MMK21Games`/`MMK21Hub`
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/MMK21Hub/Minecraft/issues/1) in [MMK21Hub/Minecraft](https://github.com/MMK21Hub/Minecraft)
-2. 🗣 Commented on [#26](https://github.com/NicolasWebDev/reinstall-magisk-on-lineageos/issues/26#issuecomment-1799265384) in [NicolasWebDev/reinstall-magisk-on-lineageos](https://github.com/NicolasWebDev/reinstall-magisk-on-lineageos)
-3. 🗣 Commented on [#266](https://github.com/ksya/ha-nefiteasy/issues/266#issuecomment-1793451560) in [ksya/ha-nefiteasy](https://github.com/ksya/ha-nefiteasy)
-4. 🗣 Commented on [#1223](https://github.com/PrismLauncher/PrismLauncher/issues/1223#issuecomment-1793367786) in [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher)
-5. 🗣 Commented on [#1204](https://github.com/modrinth/knossos/issues/1204#issuecomment-1751746354) in [modrinth/knossos](https://github.com/modrinth/knossos)
+1. 🗣 Commented on [#1](https://github.com/MMK21Hub/Minecraft/issues/1#issuecomment-1856664195) in [MMK21Hub/Minecraft](https://github.com/MMK21Hub/Minecraft)
+2. ❗ Opened issue [#1](https://github.com/MMK21Hub/Minecraft/issues/1) in [MMK21Hub/Minecraft](https://github.com/MMK21Hub/Minecraft)
+3. 🗣 Commented on [#26](https://github.com/NicolasWebDev/reinstall-magisk-on-lineageos/issues/26#issuecomment-1799265384) in [NicolasWebDev/reinstall-magisk-on-lineageos](https://github.com/NicolasWebDev/reinstall-magisk-on-lineageos)
+4. 🗣 Commented on [#266](https://github.com/ksya/ha-nefiteasy/issues/266#issuecomment-1793451560) in [ksya/ha-nefiteasy](https://github.com/ksya/ha-nefiteasy)
+5. 🗣 Commented on [#1223](https://github.com/PrismLauncher/PrismLauncher/issues/1223#issuecomment-1793367786) in [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher)
 <!--END_SECTION:activity-->
 
 ## 🙂 Minecraft Launcher shenanigans
