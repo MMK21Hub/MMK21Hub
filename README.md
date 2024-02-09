@@ -11,11 +11,11 @@ AKA `MMK21Games`/`MMK21Hub`
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1244](https://github.com/modrinth/knossos/issues/1244#issuecomment-1931504962) in [modrinth/knossos](https://github.com/modrinth/knossos)
-2. 🗣 Commented on [#1567](https://github.com/modrinth/knossos/issues/1567#issuecomment-1890433132) in [modrinth/knossos](https://github.com/modrinth/knossos)
-3. 🗣 Commented on [#1575](https://github.com/modrinth/knossos/issues/1575#issuecomment-1890431545) in [modrinth/knossos](https://github.com/modrinth/knossos)
-4. 🗣 Commented on [#1579](https://github.com/modrinth/knossos/issues/1579#issuecomment-1890431527) in [modrinth/knossos](https://github.com/modrinth/knossos)
-5. 🔒 Closed issue [#1579](https://github.com/modrinth/knossos/issues/1579) in [modrinth/knossos](https://github.com/modrinth/knossos)
+1. ❗ Opened issue [#110000](https://github.com/home-assistant/core/issues/110000) in [home-assistant/core](https://github.com/home-assistant/core)
+2. 🗣 Commented on [#1244](https://github.com/modrinth/knossos/issues/1244#issuecomment-1931504962) in [modrinth/knossos](https://github.com/modrinth/knossos)
+3. 🗣 Commented on [#1567](https://github.com/modrinth/knossos/issues/1567#issuecomment-1890433132) in [modrinth/knossos](https://github.com/modrinth/knossos)
+4. 🗣 Commented on [#1575](https://github.com/modrinth/knossos/issues/1575#issuecomment-1890431545) in [modrinth/knossos](https://github.com/modrinth/knossos)
+5. 🗣 Commented on [#1579](https://github.com/modrinth/knossos/issues/1579#issuecomment-1890431527) in [modrinth/knossos](https://github.com/modrinth/knossos)
 <!--END_SECTION:activity-->
 
 ## 🙂 Minecraft Launcher shenanigans
