@@ -11,11 +11,11 @@ AKA `MMK21Games`/`MMK21Hub`
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/fabiospampinato/json-sorted-stringify/pull/2) in [fabiospampinato/json-sorted-stringify](https://github.com/fabiospampinato/json-sorted-stringify)
-2. 🗣 Commented on [#944](https://github.com/modrinth/knossos/issues/944#issuecomment-1962901349) in [modrinth/knossos](https://github.com/modrinth/knossos)
-3. ❗ Opened issue [#110000](https://github.com/home-assistant/core/issues/110000) in [home-assistant/core](https://github.com/home-assistant/core)
-4. 🗣 Commented on [#1244](https://github.com/modrinth/knossos/issues/1244#issuecomment-1931504962) in [modrinth/knossos](https://github.com/modrinth/knossos)
-5. 🗣 Commented on [#1567](https://github.com/modrinth/knossos/issues/1567#issuecomment-1890433132) in [modrinth/knossos](https://github.com/modrinth/knossos)
+1. 🗣 Commented on [#108](https://github.com/notable/notable/issues/108#issuecomment-1987264363) in [notable/notable](https://github.com/notable/notable)
+2. 💪 Opened PR [#2](https://github.com/fabiospampinato/json-sorted-stringify/pull/2) in [fabiospampinato/json-sorted-stringify](https://github.com/fabiospampinato/json-sorted-stringify)
+3. 🗣 Commented on [#944](https://github.com/modrinth/knossos/issues/944#issuecomment-1962901349) in [modrinth/knossos](https://github.com/modrinth/knossos)
+4. ❗ Opened issue [#110000](https://github.com/home-assistant/core/issues/110000) in [home-assistant/core](https://github.com/home-assistant/core)
+5. 🗣 Commented on [#1244](https://github.com/modrinth/knossos/issues/1244#issuecomment-1931504962) in [modrinth/knossos](https://github.com/modrinth/knossos)
 <!--END_SECTION:activity-->
 
 ## 🙂 Minecraft Launcher shenanigans
