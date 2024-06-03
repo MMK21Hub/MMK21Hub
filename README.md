@@ -1,5 +1,6 @@
 ## MMK21
-AKA `MMK21Games`/`MMK21Hub`
+
+I am `@MMK21` on most platforms, but you'll sometimes find me as `@MMK21Hub` or `@MMK21Games`
 
 [![Stack overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11519302/mmk21)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/mmk21games)
