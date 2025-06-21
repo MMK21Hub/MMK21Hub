@@ -1,14 +1,16 @@
 ## MMK21
 
-I am `@MMK21` on most platforms, but you'll sometimes find me as `@MMK21Hub` or `@MMK21Games`
+Hi there! I am `@MMK21` on most platforms, but you'll sometimes find me as `@MMK21Hub` or `@MMK21Games`.
+
+My alternate account [**@RandomSearch18**](https://github.com/RandomSearch18/) contains my academic(ish) and school-adjacent projects.
 
 [![Stack overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11519302/mmk21)
 
-## 📊 Funny internet points 
+## Funny internet points 
 
 ![MMK21's Github stats](https://github-readme-stats.vercel.app/api?username=MMK21Hub&show_icons=true&theme=dark&bg_color=171b22&text_color=CCCCCC&hide_border=true)
 
-## ⚡ Recent GitHub activity
+## Recent GitHub activity
 
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#1](https://github.com/RealRTTV/nbtworkbench/issues/1) in [RealRTTV/nbtworkbench](https://github.com/RealRTTV/nbtworkbench)
@@ -17,11 +19,3 @@ I am `@MMK21` on most platforms, but you'll sometimes find me as `@MMK21Hub` or 
 4. 🗣 Commented on [#944](https://github.com/modrinth/knossos/issues/944#issuecomment-1962901349) in [modrinth/knossos](https://github.com/modrinth/knossos)
 5. ❗ Opened issue [#110000](https://github.com/home-assistant/core/issues/110000) in [home-assistant/core](https://github.com/home-assistant/core)
 <!--END_SECTION:activity-->
-
-## 🙂 Minecraft Launcher shenanigans
-
-Did you know you can access the web through the Minecraft Launcher? **Settings** > **Accounts** > **Add Microsoft account** > `Sign-in options` > **Sign in with GitHub** > `Terms` > Scroll down to footer > `About` > Use the search box to find my profile (MMK21Hub) > Click on one of the useful links below. Note that there's no back button!
-
-* 🔎 <https://google.com>
-* ℹ️ <https://amiunique.org>
-* 💥 <http://superinternet.cc/waterfall/> (Couldn't find a website that properly hangs the browser)
