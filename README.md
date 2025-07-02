@@ -6,7 +6,9 @@ My alternate account [**@RandomSearch18**](https://github.com/RandomSearch18/) c
 
 [![Stack overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11519302/mmk21)
 
-## Funny internet points 
+## Github statistics
+
+Some statistics of questionable meaningfulness:
 
 ![MMK21's Github stats](https://github-readme-stats.vercel.app/api?username=MMK21Hub&show_icons=true&theme=dark&bg_color=171b22&text_color=CCCCCC&hide_border=true)
 
