@@ -15,8 +15,8 @@ Some statistics of questionable meaningfulness:
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#19602](https://github.com/immich-app/immich/issues/19602) in [immich-app/immich](https://github.com/immich-app/immich)
-2. ❗ Opened issue [#15](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/15) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
+1. 💪 Opened PR [#4](https://github.com/V-Play-Games/ysws-timer/pull/4) in [V-Play-Games/ysws-timer](https://github.com/V-Play-Games/ysws-timer)
+2. ❗ Opened issue [#19602](https://github.com/immich-app/immich/issues/19602) in [immich-app/immich](https://github.com/immich-app/immich)
 3. 💪 Opened PR [#2](https://github.com/fabiospampinato/json-sorted-stringify/pull/2) in [fabiospampinato/json-sorted-stringify](https://github.com/fabiospampinato/json-sorted-stringify)
 4. 🗣 Commented on [#944](https://github.com/modrinth/knossos/issues/944#issuecomment-1962901349) in [modrinth/knossos](https://github.com/modrinth/knossos)
 5. ❗ Opened issue [#110000](https://github.com/home-assistant/core/issues/110000) in [home-assistant/core](https://github.com/home-assistant/core)
