@@ -15,9 +15,9 @@ Some statistics of questionable meaningfulness:
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1324](https://github.com/hackclub/dinosaurs/pull/1324) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
-2. 🎉 Merged PR [#1](https://github.com/MMK21Hub/hack-club-dinosaurs/pull/1) in [MMK21Hub/hack-club-dinosaurs](https://github.com/MMK21Hub/hack-club-dinosaurs)
-3. 💪 Opened PR [#1](https://github.com/MMK21Hub/hack-club-dinosaurs/pull/1) in [MMK21Hub/hack-club-dinosaurs](https://github.com/MMK21Hub/hack-club-dinosaurs)
-4. 🚀 Published release [v0.4.0](https://github.com/MMK21Hub/statsapp/releases/tag/v0.4.0) in [MMK21Hub/statsapp](https://github.com/MMK21Hub/statsapp)
-5. 🚀 Published release [v0.2.0](https://github.com/MMK21Hub/statsapp/releases/tag/v0.2.0) in [MMK21Hub/statsapp](https://github.com/MMK21Hub/statsapp)
+1. 💪 Opened PR [#793](https://github.com/hackclub/summer-of-making/pull/793) in [hackclub/summer-of-making](https://github.com/hackclub/summer-of-making)
+2. 💪 Opened PR [#1324](https://github.com/hackclub/dinosaurs/pull/1324) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
+3. 🎉 Merged PR [#1](https://github.com/MMK21Hub/hack-club-dinosaurs/pull/1) in [MMK21Hub/hack-club-dinosaurs](https://github.com/MMK21Hub/hack-club-dinosaurs)
+4. 💪 Opened PR [#1](https://github.com/MMK21Hub/hack-club-dinosaurs/pull/1) in [MMK21Hub/hack-club-dinosaurs](https://github.com/MMK21Hub/hack-club-dinosaurs)
+5. 🚀 Published release [v0.4.0](https://github.com/MMK21Hub/statsapp/releases/tag/v0.4.0) in [MMK21Hub/statsapp](https://github.com/MMK21Hub/statsapp)
 <!--END_SECTION:activity-->
