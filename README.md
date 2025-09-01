@@ -15,9 +15,9 @@ Some statistics of questionable meaningfulness:
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/hackclub/nephthys/pull/43#issuecomment-3194397167) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-2. ❌ Closed PR [#43](https://github.com/hackclub/nephthys/pull/43) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-3. 🚀 Published release [v1.0.0](https://github.com/MMK21Hub/core-watcher/releases/tag/v1.0.0) in [MMK21Hub/core-watcher](https://github.com/MMK21Hub/core-watcher)
+1. ❗ Opened issue [#16](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/16) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
+2. 🗣 Commented on [#43](https://github.com/hackclub/nephthys/pull/43#issuecomment-3194397167) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+3. ❌ Closed PR [#43](https://github.com/hackclub/nephthys/pull/43) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
 4. 💪 Opened PR [#793](https://github.com/hackclub/summer-of-making/pull/793) in [hackclub/summer-of-making](https://github.com/hackclub/summer-of-making)
 5. 💪 Opened PR [#1324](https://github.com/hackclub/dinosaurs/pull/1324) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
 <!--END_SECTION:activity-->
