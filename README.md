@@ -15,7 +15,7 @@ Some statistics of questionable meaningfulness:
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#16](https://github.com/MMK21Hub/Capitalisation-Fixes/issues/16) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
+1. ❗ Opened issue [#1159](https://github.com/hackclub/summer-of-making/issues/1159) in [hackclub/summer-of-making](https://github.com/hackclub/summer-of-making)
 2. 🗣 Commented on [#43](https://github.com/hackclub/nephthys/pull/43#issuecomment-3194397167) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
 3. ❌ Closed PR [#43](https://github.com/hackclub/nephthys/pull/43) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
 4. 💪 Opened PR [#793](https://github.com/hackclub/summer-of-making/pull/793) in [hackclub/summer-of-making](https://github.com/hackclub/summer-of-making)
