@@ -15,8 +15,8 @@ Some statistics of questionable meaningfulness:
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1159](https://github.com/hackclub/summer-of-making/issues/1159) in [hackclub/summer-of-making](https://github.com/hackclub/summer-of-making)
-2. 🗣 Commented on [#43](https://github.com/hackclub/nephthys/pull/43#issuecomment-3194397167) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+1. 🎉 Merged PR [#17](https://github.com/MMK21Hub/Capitalisation-Fixes/pull/17) in [MMK21Hub/Capitalisation-Fixes](https://github.com/MMK21Hub/Capitalisation-Fixes)
+2. ❗ Opened issue [#1159](https://github.com/hackclub/summer-of-making/issues/1159) in [hackclub/summer-of-making](https://github.com/hackclub/summer-of-making)
 3. ❌ Closed PR [#43](https://github.com/hackclub/nephthys/pull/43) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
 4. 💪 Opened PR [#793](https://github.com/hackclub/summer-of-making/pull/793) in [hackclub/summer-of-making](https://github.com/hackclub/summer-of-making)
 5. 💪 Opened PR [#1324](https://github.com/hackclub/dinosaurs/pull/1324) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
