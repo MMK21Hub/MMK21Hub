@@ -15,9 +15,9 @@ Some statistics of questionable meaningfulness:
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#63](undefined) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-2. 💪 Opened PR [#62](undefined) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-3.  Labeled issue [#61](https://github.com/hackclub/nephthys/issues/61) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-4.  Unlabeled issue [#61](https://github.com/hackclub/nephthys/issues/61) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-5.  Labeled issue [#61](https://github.com/hackclub/nephthys/issues/61) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+1. 🗣 Commented on [#64](https://github.com/hackclub/nephthys/pull/64#issuecomment-3424047749) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+2. ❌ Reopened PR [#64](undefined) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+3. ❌ Closed PR [#64](undefined) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+4. ❌ Reopened PR [#63](undefined) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+5. ❌ Closed PR [#63](undefined) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
 <!--END_SECTION:activity-->
