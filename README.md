@@ -15,9 +15,9 @@ Some statistics of questionable meaningfulness:
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#131](undefined) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-2. 💪 Opened PR [#130](undefined) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-3. ❗ Opened issue [#129](https://github.com/hackclub/nephthys/issues/129) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-4. ❗ Opened issue [#128](https://github.com/hackclub/nephthys/issues/128) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-5. ❗ Opened issue [#127](https://github.com/hackclub/nephthys/issues/127) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+1. ❌ Merged PR [#131](undefined) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+2. 💪 Opened PR [#131](undefined) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+3. ❌ Merged PR [#130](undefined) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+4. 💪 Opened PR [#130](undefined) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+5. ❗ Opened issue [#129](https://github.com/hackclub/nephthys/issues/129) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
 <!--END_SECTION:activity-->
