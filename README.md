@@ -15,9 +15,9 @@ Some statistics of questionable meaningfulness:
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#134](undefined) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-2. 💪 Opened PR [#134](undefined) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-3. ❌ Merged PR [#333](undefined) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
-4. 💪 Opened PR [#333](undefined) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
-5. ❌ Merged PR [#303](undefined) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
+1. 🔒 Closed issue [#135](https://github.com/hackclub/nephthys/issues/135) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+2. 🗣 Commented on [#135](https://github.com/hackclub/nephthys/issues/135#issuecomment-3676131695) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+3. ❌ Merged PR [#134](undefined) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+4. 💪 Opened PR [#134](undefined) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+5. ❌ Merged PR [#333](undefined) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
 <!--END_SECTION:activity-->
