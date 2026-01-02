@@ -16,8 +16,8 @@ Some statistics of questionable meaningfulness:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#139](https://github.com/hackclub/nephthys/pull/139#issuecomment-3694348393) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-2. ❌ Closed PR [#83](undefined) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-3.  Assigned issue [#138](https://github.com/hackclub/nephthys/issues/138) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+2. ❌ Closed PR [#83](https://github.com/hackclub/nephthys/pull/83) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+3. ℹ️ Assigned issue [#138](https://github.com/hackclub/nephthys/issues/138) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
 4. ❗ Opened issue [#138](https://github.com/hackclub/nephthys/issues/138) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
 5. ❗ Opened issue [#137](https://github.com/hackclub/nephthys/issues/137) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
 <!--END_SECTION:activity-->
