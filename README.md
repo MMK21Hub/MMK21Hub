@@ -15,9 +15,9 @@ Some statistics of questionable meaningfulness:
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#139](https://github.com/hackclub/nephthys/pull/139#issuecomment-3694348393) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-2. ❌ Closed PR [#83](https://github.com/hackclub/nephthys/pull/83) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-3. ℹ️ Assigned issue [#138](https://github.com/hackclub/nephthys/issues/138) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-4. ❗ Opened issue [#138](https://github.com/hackclub/nephthys/issues/138) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-5. ❗ Opened issue [#137](https://github.com/hackclub/nephthys/issues/137) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+1. 💪 Opened PR [#142](https://github.com/hackclub/nephthys/pull/142) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+2. 🗣 Commented on [#1](https://github.com/acurra3398/nephthys/pull/1#issuecomment-3708583207) in [acurra3398/nephthys](https://github.com/acurra3398/nephthys)
+3. ❌ Closed PR [#1](https://github.com/acurra3398/nephthys/pull/1) in [acurra3398/nephthys](https://github.com/acurra3398/nephthys)
+4. 💪 Opened PR [#1](https://github.com/acurra3398/nephthys/pull/1) in [acurra3398/nephthys](https://github.com/acurra3398/nephthys)
+5. 🎉 Merged PR [#141](https://github.com/hackclub/nephthys/pull/141) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
 <!--END_SECTION:activity-->
