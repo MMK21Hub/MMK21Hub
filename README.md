@@ -15,9 +15,9 @@ Some statistics of questionable meaningfulness:
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#155](https://github.com/hackclub/nephthys/pull/155) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-2. 💪 Opened PR [#155](https://github.com/hackclub/nephthys/pull/155) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-3. 🎉 Merged PR [#154](https://github.com/hackclub/nephthys/pull/154) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-4. 💪 Opened PR [#154](https://github.com/hackclub/nephthys/pull/154) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-5. 🗣 Commented on [#1226](https://github.com/hackclub/flavortown/pull/1226#issuecomment-3837422475) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
+1. 🎉 Merged PR [#157](https://github.com/hackclub/nephthys/pull/157) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+2. 💪 Opened PR [#157](https://github.com/hackclub/nephthys/pull/157) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+3. 🎉 Merged PR [#156](https://github.com/hackclub/nephthys/pull/156) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+4. 💪 Opened PR [#156](https://github.com/hackclub/nephthys/pull/156) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+5. ❗ Opened issue [#1272](https://github.com/hackclub/flavortown/issues/1272) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
 <!--END_SECTION:activity-->
