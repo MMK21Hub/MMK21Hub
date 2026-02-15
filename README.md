@@ -15,9 +15,9 @@ Some statistics of questionable meaningfulness:
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2465](https://github.com/hackclub/dns/pull/2465) in [hackclub/dns](https://github.com/hackclub/dns)
-2. 💪 Opened PR [#2465](https://github.com/hackclub/dns/pull/2465) in [hackclub/dns](https://github.com/hackclub/dns)
-3. ❗ Opened issue [#1412](https://github.com/hackclub/flavortown/issues/1412) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
-4. ❗ Opened issue [#1400](https://github.com/hackclub/flavortown/issues/1400) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
-5. 🗣 Commented on [#1303](https://github.com/hackclub/flavortown/issues/1303#issuecomment-3872846809) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
+1. 💪 Opened PR [#1423](https://github.com/hackclub/flavortown/pull/1423) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
+2. 🎉 Merged PR [#2465](https://github.com/hackclub/dns/pull/2465) in [hackclub/dns](https://github.com/hackclub/dns)
+3. 💪 Opened PR [#2465](https://github.com/hackclub/dns/pull/2465) in [hackclub/dns](https://github.com/hackclub/dns)
+4. ❗ Opened issue [#1412](https://github.com/hackclub/flavortown/issues/1412) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
+5. ❗ Opened issue [#1400](https://github.com/hackclub/flavortown/issues/1400) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
 <!--END_SECTION:activity-->
