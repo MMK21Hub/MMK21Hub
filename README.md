@@ -15,9 +15,9 @@ Some statistics of questionable meaningfulness:
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1670](https://github.com/hackclub/flavortown/issues/1670) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
-2. ❗ Opened issue [#1663](https://github.com/hackclub/flavortown/issues/1663) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
-3. ❗ Opened issue [#1662](https://github.com/hackclub/flavortown/issues/1662) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
-4. ❗ Opened issue [#1661](https://github.com/hackclub/flavortown/issues/1661) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
-5. ❗ Opened issue [#1899](https://github.com/hackclub/site/issues/1899) in [hackclub/site](https://github.com/hackclub/site)
+1. 🗣 Commented on [#174](https://github.com/hackclub/nephthys/pull/174#issuecomment-4035352929) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+2. ❗ Opened issue [#1670](https://github.com/hackclub/flavortown/issues/1670) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
+3. ❗ Opened issue [#1663](https://github.com/hackclub/flavortown/issues/1663) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
+4. ❗ Opened issue [#1662](https://github.com/hackclub/flavortown/issues/1662) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
+5. ❗ Opened issue [#1661](https://github.com/hackclub/flavortown/issues/1661) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
 <!--END_SECTION:activity-->
