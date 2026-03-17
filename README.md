@@ -15,9 +15,9 @@ Some statistics of questionable meaningfulness:
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#126](https://github.com/hackclub/nephthys/issues/126) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-2. ℹ️ Labeled issue [#104](https://github.com/hackclub/nephthys/issues/104) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-3. ℹ️ Labeled issue [#159](https://github.com/hackclub/nephthys/issues/159) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-4. 🗣 Commented on [#162](https://github.com/hackclub/nephthys/issues/162#issuecomment-4043389759) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-5. 🔒 Closed issue [#138](https://github.com/hackclub/nephthys/issues/138) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+1. ❗ Opened issue [#1761](https://github.com/hackclub/flavortown/issues/1761) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
+2. ℹ️ Labeled issue [#126](https://github.com/hackclub/nephthys/issues/126) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+3. ℹ️ Labeled issue [#104](https://github.com/hackclub/nephthys/issues/104) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+4. ℹ️ Labeled issue [#159](https://github.com/hackclub/nephthys/issues/159) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+5. 🗣 Commented on [#162](https://github.com/hackclub/nephthys/issues/162#issuecomment-4043389759) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
 <!--END_SECTION:activity-->
