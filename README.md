@@ -15,9 +15,9 @@ Some statistics of questionable meaningfulness:
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1897](https://github.com/hackclub/flavortown/issues/1897#issuecomment-4114366274) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
-2. ❗ Opened issue [#1885](https://github.com/hackclub/flavortown/issues/1885) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
-3. 🗣 Commented on [#1870](https://github.com/hackclub/flavortown/issues/1870#issuecomment-4112178085) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
-4. 🗣 Commented on [#1881](https://github.com/hackclub/flavortown/issues/1881#issuecomment-4112168025) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
-5. 🔒 Closed issue [#1704](https://github.com/hackclub/flavortown/issues/1704) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
+1. 🎉 Merged PR [#2](https://github.com/MMK21Hub/super-mega-data-gatherer/pull/2) in [MMK21Hub/super-mega-data-gatherer](https://github.com/MMK21Hub/super-mega-data-gatherer)
+2. 💪 Opened PR [#2](https://github.com/MMK21Hub/super-mega-data-gatherer/pull/2) in [MMK21Hub/super-mega-data-gatherer](https://github.com/MMK21Hub/super-mega-data-gatherer)
+3. 🎉 Merged PR [#1](https://github.com/MMK21Hub/super-mega-data-gatherer/pull/1) in [MMK21Hub/super-mega-data-gatherer](https://github.com/MMK21Hub/super-mega-data-gatherer)
+4. 💪 Opened PR [#1](https://github.com/MMK21Hub/super-mega-data-gatherer/pull/1) in [MMK21Hub/super-mega-data-gatherer](https://github.com/MMK21Hub/super-mega-data-gatherer)
+5. 🎉 Merged PR [#1907](https://github.com/hackclub/flavortown/pull/1907) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
 <!--END_SECTION:activity-->
