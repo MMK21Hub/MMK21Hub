@@ -15,9 +15,9 @@ Some statistics of questionable meaningfulness:
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2037](https://github.com/hackclub/flavortown/issues/2037) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
-2. 🗣 Commented on [#1121](https://github.com/hackclub/flavortown/issues/1121#issuecomment-4177515969) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
-3. ❗ Opened issue [#1995](https://github.com/hackclub/flavortown/issues/1995) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
-4. ❗ Opened issue [#1984](https://github.com/hackclub/flavortown/issues/1984) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
-5. ❗ Opened issue [#1968](https://github.com/hackclub/flavortown/issues/1968) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
+1. ℹ️ Labeled issue [#1670](https://github.com/hackclub/flavortown/issues/1670) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
+2. 🗣 Commented on [#1670](https://github.com/hackclub/flavortown/issues/1670#issuecomment-4184691656) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
+3. ❗ Opened issue [#2037](https://github.com/hackclub/flavortown/issues/2037) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
+4. 🗣 Commented on [#1121](https://github.com/hackclub/flavortown/issues/1121#issuecomment-4177515969) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
+5. ❗ Opened issue [#1995](https://github.com/hackclub/flavortown/issues/1995) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
 <!--END_SECTION:activity-->
