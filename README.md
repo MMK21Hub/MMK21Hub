@@ -15,9 +15,9 @@ Some statistics of questionable meaningfulness:
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#2111](https://github.com/hackclub/flavortown/issues/2111) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
-2. ℹ️ Labeled issue [#2111](https://github.com/hackclub/flavortown/issues/2111) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
-3. ❗ Opened issue [#2111](https://github.com/hackclub/flavortown/issues/2111) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
-4. ℹ️ Labeled issue [#1663](https://github.com/hackclub/flavortown/issues/1663) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
-5. ℹ️ Assigned issue [#2110](https://github.com/hackclub/flavortown/issues/2110) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
+1. 🗣 Commented on [#2113](https://github.com/hackclub/flavortown/issues/2113#issuecomment-4231362700) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
+2. 🔒 Closed issue [#1555](https://github.com/hackclub/flavortown/issues/1555) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
+3. 🗣 Commented on [#1555](https://github.com/hackclub/flavortown/issues/1555#issuecomment-4231345288) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
+4. ℹ️ Labeled issue [#2111](https://github.com/hackclub/flavortown/issues/2111) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
+5. ℹ️ Labeled issue [#2111](https://github.com/hackclub/flavortown/issues/2111) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
 <!--END_SECTION:activity-->
