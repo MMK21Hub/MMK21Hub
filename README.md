@@ -15,9 +15,9 @@ Some statistics of questionable meaningfulness:
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#217](https://github.com/hackclub/nephthys/pull/217#issuecomment-4644255008) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-2. ❗ Opened issue [#437](https://github.com/hackclub/stardance/issues/437) in [hackclub/stardance](https://github.com/hackclub/stardance)
-3. 🎉 Merged PR [#214](https://github.com/hackclub/nephthys/pull/214) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-4. 💪 Opened PR [#214](https://github.com/hackclub/nephthys/pull/214) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-5. 🗣 Commented on [#282](https://github.com/hackclub/stardance/pull/282#issuecomment-4611122882) in [hackclub/stardance](https://github.com/hackclub/stardance)
+1. 💪 Opened PR [#712](https://github.com/music-assistant/music-assistant.io/pull/712) in [music-assistant/music-assistant.io](https://github.com/music-assistant/music-assistant.io)
+2. 🗣 Commented on [#217](https://github.com/hackclub/nephthys/pull/217#issuecomment-4644255008) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+3. ❗ Opened issue [#437](https://github.com/hackclub/stardance/issues/437) in [hackclub/stardance](https://github.com/hackclub/stardance)
+4. 🎉 Merged PR [#214](https://github.com/hackclub/nephthys/pull/214) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+5. 💪 Opened PR [#214](https://github.com/hackclub/nephthys/pull/214) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
 <!--END_SECTION:activity-->
