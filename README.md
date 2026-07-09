@@ -15,9 +15,9 @@ Some statistics of questionable meaningfulness:
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#776](https://github.com/hackclub/stardance/issues/776) in [hackclub/stardance](https://github.com/hackclub/stardance)
-2. ❗ Opened issue [#776](https://github.com/hackclub/stardance/issues/776) in [hackclub/stardance](https://github.com/hackclub/stardance)
-3. ℹ️ Labeled issue [#775](https://github.com/hackclub/stardance/issues/775) in [hackclub/stardance](https://github.com/hackclub/stardance)
-4. ❗ Opened issue [#775](https://github.com/hackclub/stardance/issues/775) in [hackclub/stardance](https://github.com/hackclub/stardance)
-5. 🗣 Commented on [#232](https://github.com/hackclub/nephthys/pull/232#issuecomment-4855069865) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+1. 🎉 Merged PR [#233](https://github.com/hackclub/nephthys/pull/233) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+2. 💪 Opened PR [#233](https://github.com/hackclub/nephthys/pull/233) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+3. ℹ️ Labeled issue [#791](https://github.com/hackclub/stardance/issues/791) in [hackclub/stardance](https://github.com/hackclub/stardance)
+4. ❗ Opened issue [#791](https://github.com/hackclub/stardance/issues/791) in [hackclub/stardance](https://github.com/hackclub/stardance)
+5. ℹ️ Labeled issue [#776](https://github.com/hackclub/stardance/issues/776) in [hackclub/stardance](https://github.com/hackclub/stardance)
 <!--END_SECTION:activity-->
