@@ -15,9 +15,9 @@ Some statistics of questionable meaningfulness:
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#244](https://github.com/hackclub/nephthys/pull/244) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-2. 🗣 Commented on [#244](https://github.com/hackclub/nephthys/pull/244#issuecomment-4979586832) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-3. 💪 Opened PR [#244](https://github.com/hackclub/nephthys/pull/244) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-4. 🎉 Merged PR [#243](https://github.com/hackclub/nephthys/pull/243) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-5. 🎉 Merged PR [#242](https://github.com/hackclub/nephthys/pull/242) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+1. ℹ️ Labeled issue [#883](https://github.com/hackclub/stardance/issues/883) in [hackclub/stardance](https://github.com/hackclub/stardance)
+2. ❗ Opened issue [#883](https://github.com/hackclub/stardance/issues/883) in [hackclub/stardance](https://github.com/hackclub/stardance)
+3. 🎉 Merged PR [#244](https://github.com/hackclub/nephthys/pull/244) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+4. 🗣 Commented on [#244](https://github.com/hackclub/nephthys/pull/244#issuecomment-4979586832) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+5. 💪 Opened PR [#244](https://github.com/hackclub/nephthys/pull/244) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
 <!--END_SECTION:activity-->
