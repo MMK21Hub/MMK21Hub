@@ -15,9 +15,9 @@ Some statistics of questionable meaningfulness:
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Unlabeled issue [#247](https://github.com/hackclub/nephthys/issues/247) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-2. ℹ️ Labeled issue [#247](https://github.com/hackclub/nephthys/issues/247) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-3. ❗ Opened issue [#247](https://github.com/hackclub/nephthys/issues/247) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-4. 🗣 Commented on [#198](https://github.com/hackclub/nephthys/issues/198#issuecomment-5160412312) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-5. 🗣 Commented on [#437](https://github.com/hackclub/stardance/issues/437#issuecomment-5058881719) in [hackclub/stardance](https://github.com/hackclub/stardance)
+1. 🗣 Commented on [#775](https://github.com/hackclub/stardance/issues/775#issuecomment-5207767841) in [hackclub/stardance](https://github.com/hackclub/stardance)
+2. 🗣 Commented on [#991](https://github.com/hackclub/stardance/issues/991#issuecomment-5202428458) in [hackclub/stardance](https://github.com/hackclub/stardance)
+3. 🗣 Commented on [#985](https://github.com/hackclub/stardance/issues/985#issuecomment-5202404225) in [hackclub/stardance](https://github.com/hackclub/stardance)
+4. 🔒 Closed issue [#985](https://github.com/hackclub/stardance/issues/985) in [hackclub/stardance](https://github.com/hackclub/stardance)
+5. 🗣 Commented on [#775](https://github.com/hackclub/stardance/issues/775#issuecomment-5202336377) in [hackclub/stardance](https://github.com/hackclub/stardance)
 <!--END_SECTION:activity-->
