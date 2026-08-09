@@ -15,9 +15,9 @@ Some statistics of questionable meaningfulness:
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/MMK21Hub/support-watcher/pull/3) in [MMK21Hub/support-watcher](https://github.com/MMK21Hub/support-watcher)
-2. 💪 Opened PR [#3](https://github.com/MMK21Hub/support-watcher/pull/3) in [MMK21Hub/support-watcher](https://github.com/MMK21Hub/support-watcher)
-3. 🎉 Merged PR [#3](https://github.com/MMK21Hub/super-mega-data-gatherer/pull/3) in [MMK21Hub/super-mega-data-gatherer](https://github.com/MMK21Hub/super-mega-data-gatherer)
-4. 💪 Opened PR [#3](https://github.com/MMK21Hub/super-mega-data-gatherer/pull/3) in [MMK21Hub/super-mega-data-gatherer](https://github.com/MMK21Hub/super-mega-data-gatherer)
-5. 🎉 Merged PR [#1](https://github.com/MMK21Hub/jelly-stats/pull/1) in [MMK21Hub/jelly-stats](https://github.com/MMK21Hub/jelly-stats)
+1. 🎉 Merged PR [#4](https://github.com/MMK21Hub/jelly-stats/pull/4) in [MMK21Hub/jelly-stats](https://github.com/MMK21Hub/jelly-stats)
+2. 💪 Opened PR [#4](https://github.com/MMK21Hub/jelly-stats/pull/4) in [MMK21Hub/jelly-stats](https://github.com/MMK21Hub/jelly-stats)
+3. 🎉 Merged PR [#3](https://github.com/MMK21Hub/jelly-stats/pull/3) in [MMK21Hub/jelly-stats](https://github.com/MMK21Hub/jelly-stats)
+4. 💪 Opened PR [#3](https://github.com/MMK21Hub/jelly-stats/pull/3) in [MMK21Hub/jelly-stats](https://github.com/MMK21Hub/jelly-stats)
+5. 🎉 Merged PR [#2](https://github.com/MMK21Hub/jelly-stats/pull/2) in [MMK21Hub/jelly-stats](https://github.com/MMK21Hub/jelly-stats)
 <!--END_SECTION:activity-->
