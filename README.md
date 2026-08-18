@@ -15,9 +15,9 @@ Some statistics of questionable meaningfulness:
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#1070](https://github.com/hackclub/stardance/issues/1070) in [hackclub/stardance](https://github.com/hackclub/stardance)
-2. ❗ Opened issue [#1070](https://github.com/hackclub/stardance/issues/1070) in [hackclub/stardance](https://github.com/hackclub/stardance)
-3. 🎉 Merged PR [#2](https://github.com/MMK21Hub/crimson/pull/2) in [MMK21Hub/crimson](https://github.com/MMK21Hub/crimson)
-4. 💪 Opened PR [#2](https://github.com/MMK21Hub/crimson/pull/2) in [MMK21Hub/crimson](https://github.com/MMK21Hub/crimson)
-5. ℹ️ Labeled issue [#1042](https://github.com/hackclub/stardance/issues/1042) in [hackclub/stardance](https://github.com/hackclub/stardance)
+1. 🗣 Commented on [#2](https://github.com/MMK21Hub/jelly-stats/pull/2#issuecomment-5320728636) in [MMK21Hub/jelly-stats](https://github.com/MMK21Hub/jelly-stats)
+2. ℹ️ Labeled issue [#1070](https://github.com/hackclub/stardance/issues/1070) in [hackclub/stardance](https://github.com/hackclub/stardance)
+3. ❗ Opened issue [#1070](https://github.com/hackclub/stardance/issues/1070) in [hackclub/stardance](https://github.com/hackclub/stardance)
+4. 🎉 Merged PR [#2](https://github.com/MMK21Hub/crimson/pull/2) in [MMK21Hub/crimson](https://github.com/MMK21Hub/crimson)
+5. 💪 Opened PR [#2](https://github.com/MMK21Hub/crimson/pull/2) in [MMK21Hub/crimson](https://github.com/MMK21Hub/crimson)
 <!--END_SECTION:activity-->
