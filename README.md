@@ -15,9 +15,9 @@ Some statistics of questionable meaningfulness:
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/MMK21Hub/jelly-stats/pull/2#issuecomment-5320728636) in [MMK21Hub/jelly-stats](https://github.com/MMK21Hub/jelly-stats)
-2. ℹ️ Labeled issue [#1070](https://github.com/hackclub/stardance/issues/1070) in [hackclub/stardance](https://github.com/hackclub/stardance)
-3. ❗ Opened issue [#1070](https://github.com/hackclub/stardance/issues/1070) in [hackclub/stardance](https://github.com/hackclub/stardance)
-4. 🎉 Merged PR [#2](https://github.com/MMK21Hub/crimson/pull/2) in [MMK21Hub/crimson](https://github.com/MMK21Hub/crimson)
-5. 💪 Opened PR [#2](https://github.com/MMK21Hub/crimson/pull/2) in [MMK21Hub/crimson](https://github.com/MMK21Hub/crimson)
+1. 🗣 Commented on [#2](https://github.com/MMK21Hub/tau-docker/pull/2#issuecomment-5376313817) in [MMK21Hub/tau-docker](https://github.com/MMK21Hub/tau-docker)
+2. 🗣 Commented on [#1](https://github.com/MMK21Hub/tau-docker/pull/1#issuecomment-5376290685) in [MMK21Hub/tau-docker](https://github.com/MMK21Hub/tau-docker)
+3. ❌ Closed PR [#1](https://github.com/MMK21Hub/tau-docker/pull/1) in [MMK21Hub/tau-docker](https://github.com/MMK21Hub/tau-docker)
+4. 🗣 Commented on [#2](https://github.com/MMK21Hub/jelly-stats/pull/2#issuecomment-5320728636) in [MMK21Hub/jelly-stats](https://github.com/MMK21Hub/jelly-stats)
+5. ℹ️ Labeled issue [#1070](https://github.com/hackclub/stardance/issues/1070) in [hackclub/stardance](https://github.com/hackclub/stardance)
 <!--END_SECTION:activity-->
