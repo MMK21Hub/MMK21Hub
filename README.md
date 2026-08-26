@@ -15,9 +15,9 @@ Some statistics of questionable meaningfulness:
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/MMK21Hub/tau-docker/pull/2#issuecomment-5376313817) in [MMK21Hub/tau-docker](https://github.com/MMK21Hub/tau-docker)
-2. 🗣 Commented on [#1](https://github.com/MMK21Hub/tau-docker/pull/1#issuecomment-5376290685) in [MMK21Hub/tau-docker](https://github.com/MMK21Hub/tau-docker)
-3. ❌ Closed PR [#1](https://github.com/MMK21Hub/tau-docker/pull/1) in [MMK21Hub/tau-docker](https://github.com/MMK21Hub/tau-docker)
-4. 🗣 Commented on [#2](https://github.com/MMK21Hub/jelly-stats/pull/2#issuecomment-5320728636) in [MMK21Hub/jelly-stats](https://github.com/MMK21Hub/jelly-stats)
-5. ℹ️ Labeled issue [#1070](https://github.com/hackclub/stardance/issues/1070) in [hackclub/stardance](https://github.com/hackclub/stardance)
+1. ❗ Opened issue [#249](https://github.com/hackclub/nephthys/issues/249) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+2. 🗣 Commented on [#2](https://github.com/MMK21Hub/tau-docker/pull/2#issuecomment-5376313817) in [MMK21Hub/tau-docker](https://github.com/MMK21Hub/tau-docker)
+3. 🗣 Commented on [#1](https://github.com/MMK21Hub/tau-docker/pull/1#issuecomment-5376290685) in [MMK21Hub/tau-docker](https://github.com/MMK21Hub/tau-docker)
+4. ❌ Closed PR [#1](https://github.com/MMK21Hub/tau-docker/pull/1) in [MMK21Hub/tau-docker](https://github.com/MMK21Hub/tau-docker)
+5. 🗣 Commented on [#2](https://github.com/MMK21Hub/jelly-stats/pull/2#issuecomment-5320728636) in [MMK21Hub/jelly-stats](https://github.com/MMK21Hub/jelly-stats)
 <!--END_SECTION:activity-->
