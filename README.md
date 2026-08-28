@@ -15,9 +15,9 @@ Some statistics of questionable meaningfulness:
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#252](https://github.com/hackclub/nephthys/issues/252) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-2. ❗ Opened issue [#249](https://github.com/hackclub/nephthys/issues/249) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-3. 🗣 Commented on [#2](https://github.com/MMK21Hub/tau-docker/pull/2#issuecomment-5376313817) in [MMK21Hub/tau-docker](https://github.com/MMK21Hub/tau-docker)
-4. 🗣 Commented on [#1](https://github.com/MMK21Hub/tau-docker/pull/1#issuecomment-5376290685) in [MMK21Hub/tau-docker](https://github.com/MMK21Hub/tau-docker)
-5. ❌ Closed PR [#1](https://github.com/MMK21Hub/tau-docker/pull/1) in [MMK21Hub/tau-docker](https://github.com/MMK21Hub/tau-docker)
+1. 🗣 Commented on [#7](https://github.com/MMK21Hub/tau-docker/pull/7#issuecomment-5450556781) in [MMK21Hub/tau-docker](https://github.com/MMK21Hub/tau-docker)
+2. ❗ Opened issue [#252](https://github.com/hackclub/nephthys/issues/252) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+3. ❗ Opened issue [#249](https://github.com/hackclub/nephthys/issues/249) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+4. 🗣 Commented on [#2](https://github.com/MMK21Hub/tau-docker/pull/2#issuecomment-5376313817) in [MMK21Hub/tau-docker](https://github.com/MMK21Hub/tau-docker)
+5. 🗣 Commented on [#1](https://github.com/MMK21Hub/tau-docker/pull/1#issuecomment-5376290685) in [MMK21Hub/tau-docker](https://github.com/MMK21Hub/tau-docker)
 <!--END_SECTION:activity-->
