@@ -15,9 +15,9 @@ Some statistics of questionable meaningfulness:
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/MMK21Hub/my-my-lboro/pull/1) in [MMK21Hub/my-my-lboro](https://github.com/MMK21Hub/my-my-lboro)
-2. 💪 Opened PR [#1](https://github.com/MMK21Hub/my-my-lboro/pull/1) in [MMK21Hub/my-my-lboro](https://github.com/MMK21Hub/my-my-lboro)
-3. 🎉 Merged PR [#4](https://github.com/MMK21Hub/super-mega-data-gatherer/pull/4) in [MMK21Hub/super-mega-data-gatherer](https://github.com/MMK21Hub/super-mega-data-gatherer)
-4. 💪 Opened PR [#4](https://github.com/MMK21Hub/super-mega-data-gatherer/pull/4) in [MMK21Hub/super-mega-data-gatherer](https://github.com/MMK21Hub/super-mega-data-gatherer)
-5. ℹ️ Labeled issue [#1186](https://github.com/hackclub/stardance/issues/1186) in [hackclub/stardance](https://github.com/hackclub/stardance)
+1. 🎉 Merged PR [#2](https://github.com/MMK21Hub/my-my-lboro/pull/2) in [MMK21Hub/my-my-lboro](https://github.com/MMK21Hub/my-my-lboro)
+2. 💪 Opened PR [#2](https://github.com/MMK21Hub/my-my-lboro/pull/2) in [MMK21Hub/my-my-lboro](https://github.com/MMK21Hub/my-my-lboro)
+3. 🎉 Merged PR [#1](https://github.com/MMK21Hub/my-my-lboro/pull/1) in [MMK21Hub/my-my-lboro](https://github.com/MMK21Hub/my-my-lboro)
+4. 💪 Opened PR [#1](https://github.com/MMK21Hub/my-my-lboro/pull/1) in [MMK21Hub/my-my-lboro](https://github.com/MMK21Hub/my-my-lboro)
+5. 🎉 Merged PR [#4](https://github.com/MMK21Hub/super-mega-data-gatherer/pull/4) in [MMK21Hub/super-mega-data-gatherer](https://github.com/MMK21Hub/super-mega-data-gatherer)
 <!--END_SECTION:activity-->
