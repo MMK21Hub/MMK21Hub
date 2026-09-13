@@ -15,9 +15,9 @@ Some statistics of questionable meaningfulness:
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/MMK21Hub/my-my-lboro/pull/2) in [MMK21Hub/my-my-lboro](https://github.com/MMK21Hub/my-my-lboro)
-2. 💪 Opened PR [#2](https://github.com/MMK21Hub/my-my-lboro/pull/2) in [MMK21Hub/my-my-lboro](https://github.com/MMK21Hub/my-my-lboro)
-3. 🎉 Merged PR [#1](https://github.com/MMK21Hub/my-my-lboro/pull/1) in [MMK21Hub/my-my-lboro](https://github.com/MMK21Hub/my-my-lboro)
-4. 💪 Opened PR [#1](https://github.com/MMK21Hub/my-my-lboro/pull/1) in [MMK21Hub/my-my-lboro](https://github.com/MMK21Hub/my-my-lboro)
-5. 🎉 Merged PR [#4](https://github.com/MMK21Hub/super-mega-data-gatherer/pull/4) in [MMK21Hub/super-mega-data-gatherer](https://github.com/MMK21Hub/super-mega-data-gatherer)
+1. 🗣 Commented on [#1107](https://github.com/hackclub/stardance/issues/1107#issuecomment-5648015835) in [hackclub/stardance](https://github.com/hackclub/stardance)
+2. 🗣 Commented on [#1194](https://github.com/hackclub/stardance/issues/1194#issuecomment-5647962761) in [hackclub/stardance](https://github.com/hackclub/stardance)
+3. 🗣 Commented on [#1199](https://github.com/hackclub/stardance/issues/1199#issuecomment-5647940527) in [hackclub/stardance](https://github.com/hackclub/stardance)
+4. 🔒 Closed issue [#1199](https://github.com/hackclub/stardance/issues/1199) in [hackclub/stardance](https://github.com/hackclub/stardance)
+5. 🎉 Merged PR [#2](https://github.com/MMK21Hub/my-my-lboro/pull/2) in [MMK21Hub/my-my-lboro](https://github.com/MMK21Hub/my-my-lboro)
 <!--END_SECTION:activity-->
