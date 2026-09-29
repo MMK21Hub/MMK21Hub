@@ -15,9 +15,9 @@ Some statistics of questionable meaningfulness:
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3547](https://github.com/Kludex/starlette/pull/3547) in [Kludex/starlette](https://github.com/Kludex/starlette)
-2. 🎉 Merged PR [#1341](https://github.com/hackclub/stardance/pull/1341) in [hackclub/stardance](https://github.com/hackclub/stardance)
-3. 💪 Opened PR [#1341](https://github.com/hackclub/stardance/pull/1341) in [hackclub/stardance](https://github.com/hackclub/stardance)
-4. 🗣 Commented on [#178](https://github.com/hackclub/nephthys/pull/178#issuecomment-5814244900) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-5. ❌ Closed PR [#178](https://github.com/hackclub/nephthys/pull/178) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+1. ℹ️ Labeled issue [#1373](https://github.com/hackclub/stardance/issues/1373) in [hackclub/stardance](https://github.com/hackclub/stardance)
+2. ❗ Opened issue [#1373](https://github.com/hackclub/stardance/issues/1373) in [hackclub/stardance](https://github.com/hackclub/stardance)
+3. 🗣 Commented on [#2181](https://github.com/hackclub/flavortown/issues/2181#issuecomment-5874784179) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
+4. 🎉 Merged PR [#3547](https://github.com/Kludex/starlette/pull/3547) in [Kludex/starlette](https://github.com/Kludex/starlette)
+5. 🎉 Merged PR [#1341](https://github.com/hackclub/stardance/pull/1341) in [hackclub/stardance](https://github.com/hackclub/stardance)
 <!--END_SECTION:activity-->
