@@ -15,9 +15,9 @@ Some statistics of questionable meaningfulness:
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#1373](https://github.com/hackclub/stardance/issues/1373) in [hackclub/stardance](https://github.com/hackclub/stardance)
-2. ❗ Opened issue [#1373](https://github.com/hackclub/stardance/issues/1373) in [hackclub/stardance](https://github.com/hackclub/stardance)
-3. 🗣 Commented on [#2181](https://github.com/hackclub/flavortown/issues/2181#issuecomment-5874784179) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
-4. 🎉 Merged PR [#3547](https://github.com/Kludex/starlette/pull/3547) in [Kludex/starlette](https://github.com/Kludex/starlette)
-5. 🎉 Merged PR [#1341](https://github.com/hackclub/stardance/pull/1341) in [hackclub/stardance](https://github.com/hackclub/stardance)
+1. 🎉 Merged PR [#3](https://github.com/MMK21Hub/my-my-lboro/pull/3) in [MMK21Hub/my-my-lboro](https://github.com/MMK21Hub/my-my-lboro)
+2. 💪 Opened PR [#3](https://github.com/MMK21Hub/my-my-lboro/pull/3) in [MMK21Hub/my-my-lboro](https://github.com/MMK21Hub/my-my-lboro)
+3. ℹ️ Labeled issue [#1373](https://github.com/hackclub/stardance/issues/1373) in [hackclub/stardance](https://github.com/hackclub/stardance)
+4. ❗ Opened issue [#1373](https://github.com/hackclub/stardance/issues/1373) in [hackclub/stardance](https://github.com/hackclub/stardance)
+5. 🗣 Commented on [#2181](https://github.com/hackclub/flavortown/issues/2181#issuecomment-5874784179) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
 <!--END_SECTION:activity-->
