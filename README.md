@@ -3,8 +3,6 @@
 Hi there!
 
 - I ❤️ Python, TypeScript, the Open Web, and beautiful Grafana dashboards
-- I like to make software (some of which is good)
-<!--- A few of my projects are pinned below - send me a message if you want to chat about anything I've made-->
 - Currently helping teenagers make awesome projects with events at [Hack Club](https://hackclub.com/)
 - Messing around with Rust, Proxmox, and microcontrollers
 
