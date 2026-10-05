@@ -2,7 +2,7 @@
 
 Hi there!
 
-- I ❤️ Python, TypeScript, the Open Web, and beautiful Grafana dashboards
+- I `<3` Python, TypeScript, the Open Web, and beautiful Grafana dashboards
 - Currently helping teenagers make awesome projects with events at [Hack Club](https://hackclub.com/)
 - Messing around with Rust, Proxmox, and microcontrollers
 
