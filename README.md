@@ -14,11 +14,11 @@ My alternate account [**@RandomSearch18**](https://github.com/RandomSearch18/) c
   <summary>Recent PRs, issues, comments</summary>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#1426](https://github.com/hackclub/stardance/issues/1426) in [hackclub/stardance](https://github.com/hackclub/stardance)
-2. ❗ Opened issue [#1426](https://github.com/hackclub/stardance/issues/1426) in [hackclub/stardance](https://github.com/hackclub/stardance)
-3. ℹ️ Labeled issue [#1425](https://github.com/hackclub/stardance/issues/1425) in [hackclub/stardance](https://github.com/hackclub/stardance)
-4. ❗ Opened issue [#1425](https://github.com/hackclub/stardance/issues/1425) in [hackclub/stardance](https://github.com/hackclub/stardance)
-5. 🎉 Merged PR [#3](https://github.com/MMK21Hub/my-my-lboro/pull/3) in [MMK21Hub/my-my-lboro](https://github.com/MMK21Hub/my-my-lboro)
+1. 🗣 Commented on [#267](https://github.com/hackclub/nephthys/pull/267#issuecomment-6087062121) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+2. ℹ️ Labeled issue [#1426](https://github.com/hackclub/stardance/issues/1426) in [hackclub/stardance](https://github.com/hackclub/stardance)
+3. ❗ Opened issue [#1426](https://github.com/hackclub/stardance/issues/1426) in [hackclub/stardance](https://github.com/hackclub/stardance)
+4. ℹ️ Labeled issue [#1425](https://github.com/hackclub/stardance/issues/1425) in [hackclub/stardance](https://github.com/hackclub/stardance)
+5. ❗ Opened issue [#1425](https://github.com/hackclub/stardance/issues/1425) in [hackclub/stardance](https://github.com/hackclub/stardance)
 <!--END_SECTION:activity-->
 
 </details>
