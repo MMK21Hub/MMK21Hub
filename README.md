@@ -14,11 +14,11 @@ My alternate account [**@RandomSearch18**](https://github.com/RandomSearch18/) c
   <summary>Recent PRs, issues, comments</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#264](https://github.com/hackclub/nephthys/pull/264#issuecomment-6276395485) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-2. ❌ Closed PR [#264](https://github.com/hackclub/nephthys/pull/264) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-3. 🗣 Commented on [#17](https://github.com/MMK21Hub/tau-docker/pull/17#issuecomment-6263118433) in [MMK21Hub/tau-docker](https://github.com/MMK21Hub/tau-docker)
-4. 🗣 Commented on [#16](https://github.com/MMK21Hub/tau-docker/pull/16#issuecomment-6261191360) in [MMK21Hub/tau-docker](https://github.com/MMK21Hub/tau-docker)
-5. 🗣 Commented on [#17](https://github.com/MMK21Hub/tau-docker/pull/17#issuecomment-6261190783) in [MMK21Hub/tau-docker](https://github.com/MMK21Hub/tau-docker)
+1. 🎉 Merged PR [#1](https://github.com/makeitallproject/Make-It-All-Project/pull/1) in [makeitallproject/Make-It-All-Project](https://github.com/makeitallproject/Make-It-All-Project)
+2. 💪 Opened PR [#1](https://github.com/makeitallproject/Make-It-All-Project/pull/1) in [makeitallproject/Make-It-All-Project](https://github.com/makeitallproject/Make-It-All-Project)
+3. 🗣 Commented on [#264](https://github.com/hackclub/nephthys/pull/264#issuecomment-6276395485) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+4. ❌ Closed PR [#264](https://github.com/hackclub/nephthys/pull/264) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+5. 🗣 Commented on [#17](https://github.com/MMK21Hub/tau-docker/pull/17#issuecomment-6263118433) in [MMK21Hub/tau-docker](https://github.com/MMK21Hub/tau-docker)
 <!--END_SECTION:activity-->
 
 </details>
