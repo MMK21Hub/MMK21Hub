@@ -14,11 +14,11 @@ My alternate account [**@RandomSearch18**](https://github.com/RandomSearch18/) c
   <summary>Recent PRs, issues, comments</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1292](https://github.com/hackclub/stardance/issues/1292#issuecomment-6360983998) in [hackclub/stardance](https://github.com/hackclub/stardance)
-2. 🎉 Merged PR [#277](https://github.com/hackclub/nephthys/pull/277) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-3. 💪 Opened PR [#277](https://github.com/hackclub/nephthys/pull/277) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-4. 🎉 Merged PR [#1](https://github.com/makeitallproject/Make-It-All-Project/pull/1) in [makeitallproject/Make-It-All-Project](https://github.com/makeitallproject/Make-It-All-Project)
-5. 💪 Opened PR [#1](https://github.com/makeitallproject/Make-It-All-Project/pull/1) in [makeitallproject/Make-It-All-Project](https://github.com/makeitallproject/Make-It-All-Project)
+1. 🎉 Merged PR [#1](https://github.com/MMK21Hub/curriculum-vitae/pull/1) in [MMK21Hub/curriculum-vitae](https://github.com/MMK21Hub/curriculum-vitae)
+2. 💪 Opened PR [#1](https://github.com/MMK21Hub/curriculum-vitae/pull/1) in [MMK21Hub/curriculum-vitae](https://github.com/MMK21Hub/curriculum-vitae)
+3. ❌ Closed PR [#276](https://github.com/hackclub/nephthys/pull/276) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+4. ❌ Closed PR [#275](https://github.com/hackclub/nephthys/pull/275) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+5. ❌ Closed PR [#273](https://github.com/hackclub/nephthys/pull/273) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
 <!--END_SECTION:activity-->
 
 </details>
