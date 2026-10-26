@@ -14,11 +14,11 @@ My alternate account [**@RandomSearch18**](https://github.com/RandomSearch18/) c
   <summary>Recent PRs, issues, comments</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/MMK21Hub/curriculum-vitae/pull/1) in [MMK21Hub/curriculum-vitae](https://github.com/MMK21Hub/curriculum-vitae)
-2. 💪 Opened PR [#1](https://github.com/MMK21Hub/curriculum-vitae/pull/1) in [MMK21Hub/curriculum-vitae](https://github.com/MMK21Hub/curriculum-vitae)
-3. ❌ Closed PR [#276](https://github.com/hackclub/nephthys/pull/276) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-4. ❌ Closed PR [#275](https://github.com/hackclub/nephthys/pull/275) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-5. ❌ Closed PR [#273](https://github.com/hackclub/nephthys/pull/273) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+1. 🎉 Merged PR [#4](https://github.com/MMK21Hub/crimson/pull/4) in [MMK21Hub/crimson](https://github.com/MMK21Hub/crimson)
+2. 💪 Opened PR [#4](https://github.com/MMK21Hub/crimson/pull/4) in [MMK21Hub/crimson](https://github.com/MMK21Hub/crimson)
+3. 💪 Opened PR [#2](https://github.com/makeitallproject/Make-It-All-Project/pull/2) in [makeitallproject/Make-It-All-Project](https://github.com/makeitallproject/Make-It-All-Project)
+4. 🎉 Merged PR [#3](https://github.com/MMK21Hub/crimson/pull/3) in [MMK21Hub/crimson](https://github.com/MMK21Hub/crimson)
+5. 💪 Opened PR [#3](https://github.com/MMK21Hub/crimson/pull/3) in [MMK21Hub/crimson](https://github.com/MMK21Hub/crimson)
 <!--END_SECTION:activity-->
 
 </details>
