@@ -14,11 +14,11 @@ My alternate account [**@RandomSearch18**](https://github.com/RandomSearch18/) c
   <summary>Recent PRs, issues, comments</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/MMK21Hub/crimson/pull/4) in [MMK21Hub/crimson](https://github.com/MMK21Hub/crimson)
-2. 💪 Opened PR [#4](https://github.com/MMK21Hub/crimson/pull/4) in [MMK21Hub/crimson](https://github.com/MMK21Hub/crimson)
-3. 💪 Opened PR [#2](https://github.com/makeitallproject/Make-It-All-Project/pull/2) in [makeitallproject/Make-It-All-Project](https://github.com/makeitallproject/Make-It-All-Project)
-4. 🎉 Merged PR [#3](https://github.com/MMK21Hub/crimson/pull/3) in [MMK21Hub/crimson](https://github.com/MMK21Hub/crimson)
-5. 💪 Opened PR [#3](https://github.com/MMK21Hub/crimson/pull/3) in [MMK21Hub/crimson](https://github.com/MMK21Hub/crimson)
+1. 🎉 Merged PR [#2](https://github.com/makeitallproject/Make-It-All-Project/pull/2) in [makeitallproject/Make-It-All-Project](https://github.com/makeitallproject/Make-It-All-Project)
+2. ℹ️ Labeled issue [#1426](https://github.com/garethgeorge/backrest/issues/1426) in [garethgeorge/backrest](https://github.com/garethgeorge/backrest)
+3. ❗ Opened issue [#1426](https://github.com/garethgeorge/backrest/issues/1426) in [garethgeorge/backrest](https://github.com/garethgeorge/backrest)
+4. 🎉 Merged PR [#4](https://github.com/MMK21Hub/crimson/pull/4) in [MMK21Hub/crimson](https://github.com/MMK21Hub/crimson)
+5. 💪 Opened PR [#4](https://github.com/MMK21Hub/crimson/pull/4) in [MMK21Hub/crimson](https://github.com/MMK21Hub/crimson)
 <!--END_SECTION:activity-->
 
 </details>
