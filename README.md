@@ -14,11 +14,11 @@ My alternate account [**@RandomSearch18**](https://github.com/RandomSearch18/) c
   <summary>Recent PRs, issues, comments</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/makeitallproject/Make-It-All-Project/pull/8) in [makeitallproject/Make-It-All-Project](https://github.com/makeitallproject/Make-It-All-Project)
-2. 🗣 Commented on [#4](https://github.com/makeitallproject/Make-It-All-Project/pull/4#issuecomment-6443050380) in [makeitallproject/Make-It-All-Project](https://github.com/makeitallproject/Make-It-All-Project)
-3. 💪 Opened PR [#8](https://github.com/makeitallproject/Make-It-All-Project/pull/8) in [makeitallproject/Make-It-All-Project](https://github.com/makeitallproject/Make-It-All-Project)
-4. ❗ Opened issue [#6](https://github.com/makeitallproject/Make-It-All-Project/issues/6) in [makeitallproject/Make-It-All-Project](https://github.com/makeitallproject/Make-It-All-Project)
-5. ℹ️ Assigned issue [#6](https://github.com/makeitallproject/Make-It-All-Project/issues/6) in [makeitallproject/Make-It-All-Project](https://github.com/makeitallproject/Make-It-All-Project)
+1. ❗ Opened issue [#4](https://github.com/MMK21Hub/my-my-lboro/issues/4) in [MMK21Hub/my-my-lboro](https://github.com/MMK21Hub/my-my-lboro)
+2. ℹ️ Labeled issue [#4](https://github.com/MMK21Hub/my-my-lboro/issues/4) in [MMK21Hub/my-my-lboro](https://github.com/MMK21Hub/my-my-lboro)
+3. 🎉 Merged PR [#8](https://github.com/makeitallproject/Make-It-All-Project/pull/8) in [makeitallproject/Make-It-All-Project](https://github.com/makeitallproject/Make-It-All-Project)
+4. 🗣 Commented on [#4](https://github.com/makeitallproject/Make-It-All-Project/pull/4#issuecomment-6443050380) in [makeitallproject/Make-It-All-Project](https://github.com/makeitallproject/Make-It-All-Project)
+5. 💪 Opened PR [#8](https://github.com/makeitallproject/Make-It-All-Project/pull/8) in [makeitallproject/Make-It-All-Project](https://github.com/makeitallproject/Make-It-All-Project)
 <!--END_SECTION:activity-->
 
 </details>
