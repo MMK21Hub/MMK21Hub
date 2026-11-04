@@ -14,11 +14,11 @@ My alternate account [**@RandomSearch18**](https://github.com/RandomSearch18/) c
   <summary>Recent PRs, issues, comments</summary>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#5](https://github.com/MMK21Hub/crimson/issues/5) in [MMK21Hub/crimson](https://github.com/MMK21Hub/crimson)
-2. ❗ Opened issue [#5](https://github.com/MMK21Hub/crimson/issues/5) in [MMK21Hub/crimson](https://github.com/MMK21Hub/crimson)
-3. 🚀 Published release [Part 1 submission (prototype)](https://github.com/makeitallproject/Make-It-All-Project/releases/tag/part-1-submission) in [makeitallproject/Make-It-All-Project](https://github.com/makeitallproject/Make-It-All-Project)
-4. ℹ️ Labeled issue [#33](https://github.com/makeitallproject/Make-It-All-Project/issues/33) in [makeitallproject/Make-It-All-Project](https://github.com/makeitallproject/Make-It-All-Project)
-5. ℹ️ Assigned issue [#34](https://github.com/makeitallproject/Make-It-All-Project/issues/34) in [makeitallproject/Make-It-All-Project](https://github.com/makeitallproject/Make-It-All-Project)
+1. 🔒 Closed issue [#34](https://github.com/makeitallproject/Make-It-All-Project/issues/34) in [makeitallproject/Make-It-All-Project](https://github.com/makeitallproject/Make-It-All-Project)
+2. ℹ️ Labeled issue [#5](https://github.com/MMK21Hub/crimson/issues/5) in [MMK21Hub/crimson](https://github.com/MMK21Hub/crimson)
+3. ❗ Opened issue [#5](https://github.com/MMK21Hub/crimson/issues/5) in [MMK21Hub/crimson](https://github.com/MMK21Hub/crimson)
+4. 🚀 Published release [Part 1 submission (prototype)](https://github.com/makeitallproject/Make-It-All-Project/releases/tag/part-1-submission) in [makeitallproject/Make-It-All-Project](https://github.com/makeitallproject/Make-It-All-Project)
+5. ℹ️ Labeled issue [#33](https://github.com/makeitallproject/Make-It-All-Project/issues/33) in [makeitallproject/Make-It-All-Project](https://github.com/makeitallproject/Make-It-All-Project)
 <!--END_SECTION:activity-->
 
 </details>
