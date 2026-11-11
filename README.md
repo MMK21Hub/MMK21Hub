@@ -14,11 +14,11 @@ My alternate account [**@RandomSearch18**](https://github.com/RandomSearch18/) c
   <summary>Recent PRs, issues, comments</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/MMK21Hub/crimson/pull/10) in [MMK21Hub/crimson](https://github.com/MMK21Hub/crimson)
-2. 💪 Opened PR [#10](https://github.com/MMK21Hub/crimson/pull/10) in [MMK21Hub/crimson](https://github.com/MMK21Hub/crimson)
-3. 🎉 Merged PR [#9](https://github.com/MMK21Hub/crimson/pull/9) in [MMK21Hub/crimson](https://github.com/MMK21Hub/crimson)
-4. 💪 Opened PR [#9](https://github.com/MMK21Hub/crimson/pull/9) in [MMK21Hub/crimson](https://github.com/MMK21Hub/crimson)
-5. 🎉 Merged PR [#8](https://github.com/MMK21Hub/crimson/pull/8) in [MMK21Hub/crimson](https://github.com/MMK21Hub/crimson)
+1. 🗣 Commented on [#278](https://github.com/hackclub/nephthys/pull/278#issuecomment-6768763072) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+2. 🎉 Merged PR [#10](https://github.com/MMK21Hub/crimson/pull/10) in [MMK21Hub/crimson](https://github.com/MMK21Hub/crimson)
+3. 💪 Opened PR [#10](https://github.com/MMK21Hub/crimson/pull/10) in [MMK21Hub/crimson](https://github.com/MMK21Hub/crimson)
+4. 🎉 Merged PR [#9](https://github.com/MMK21Hub/crimson/pull/9) in [MMK21Hub/crimson](https://github.com/MMK21Hub/crimson)
+5. 💪 Opened PR [#9](https://github.com/MMK21Hub/crimson/pull/9) in [MMK21Hub/crimson](https://github.com/MMK21Hub/crimson)
 <!--END_SECTION:activity-->
 
 </details>
