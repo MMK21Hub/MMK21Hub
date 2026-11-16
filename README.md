@@ -14,11 +14,11 @@ My alternate account [**@RandomSearch18**](https://github.com/RandomSearch18/) c
   <summary>Recent PRs, issues, comments</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/MMK21Hub/my-my-lboro/pull/5) in [MMK21Hub/my-my-lboro](https://github.com/MMK21Hub/my-my-lboro)
-2. 🗣 Commented on [#278](https://github.com/hackclub/nephthys/pull/278#issuecomment-6768763072) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-3. 🎉 Merged PR [#10](https://github.com/MMK21Hub/crimson/pull/10) in [MMK21Hub/crimson](https://github.com/MMK21Hub/crimson)
-4. 💪 Opened PR [#10](https://github.com/MMK21Hub/crimson/pull/10) in [MMK21Hub/crimson](https://github.com/MMK21Hub/crimson)
-5. 🎉 Merged PR [#9](https://github.com/MMK21Hub/crimson/pull/9) in [MMK21Hub/crimson](https://github.com/MMK21Hub/crimson)
+1. 🔒 Closed issue [#12](https://github.com/makeitallproject/Make-It-All-Project/issues/12) in [makeitallproject/Make-It-All-Project](https://github.com/makeitallproject/Make-It-All-Project)
+2. 🔒 Closed issue [#32](https://github.com/makeitallproject/Make-It-All-Project/issues/32) in [makeitallproject/Make-It-All-Project](https://github.com/makeitallproject/Make-It-All-Project)
+3. 🔒 Closed issue [#30](https://github.com/makeitallproject/Make-It-All-Project/issues/30) in [makeitallproject/Make-It-All-Project](https://github.com/makeitallproject/Make-It-All-Project)
+4. 💪 Opened PR [#5](https://github.com/MMK21Hub/my-my-lboro/pull/5) in [MMK21Hub/my-my-lboro](https://github.com/MMK21Hub/my-my-lboro)
+5. 🗣 Commented on [#278](https://github.com/hackclub/nephthys/pull/278#issuecomment-6768763072) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
 <!--END_SECTION:activity-->
 
 </details>
