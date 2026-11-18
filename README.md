@@ -14,11 +14,11 @@ My alternate account [**@RandomSearch18**](https://github.com/RandomSearch18/) c
   <summary>Recent PRs, issues, comments</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/MMK21Hub/crimson/pull/11) in [MMK21Hub/crimson](https://github.com/MMK21Hub/crimson)
-2. 💪 Opened PR [#11](https://github.com/MMK21Hub/crimson/pull/11) in [MMK21Hub/crimson](https://github.com/MMK21Hub/crimson)
-3. 🔒 Closed issue [#12](https://github.com/makeitallproject/Make-It-All-Project/issues/12) in [makeitallproject/Make-It-All-Project](https://github.com/makeitallproject/Make-It-All-Project)
-4. 🔒 Closed issue [#32](https://github.com/makeitallproject/Make-It-All-Project/issues/32) in [makeitallproject/Make-It-All-Project](https://github.com/makeitallproject/Make-It-All-Project)
-5. 🔒 Closed issue [#30](https://github.com/makeitallproject/Make-It-All-Project/issues/30) in [makeitallproject/Make-It-All-Project](https://github.com/makeitallproject/Make-It-All-Project)
+1. ℹ️ Labeled issue [#44](https://github.com/makeitallproject/Make-It-All-Project/issues/44) in [makeitallproject/Make-It-All-Project](https://github.com/makeitallproject/Make-It-All-Project)
+2. ❗ Opened issue [#44](https://github.com/makeitallproject/Make-It-All-Project/issues/44) in [makeitallproject/Make-It-All-Project](https://github.com/makeitallproject/Make-It-All-Project)
+3. ℹ️ Labeled issue [#43](https://github.com/makeitallproject/Make-It-All-Project/issues/43) in [makeitallproject/Make-It-All-Project](https://github.com/makeitallproject/Make-It-All-Project)
+4. ❗ Opened issue [#43](https://github.com/makeitallproject/Make-It-All-Project/issues/43) in [makeitallproject/Make-It-All-Project](https://github.com/makeitallproject/Make-It-All-Project)
+5. ❗ Opened issue [#42](https://github.com/makeitallproject/Make-It-All-Project/issues/42) in [makeitallproject/Make-It-All-Project](https://github.com/makeitallproject/Make-It-All-Project)
 <!--END_SECTION:activity-->
 
 </details>
